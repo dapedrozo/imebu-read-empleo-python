@@ -1,0 +1,152 @@
+[
+    {
+        "naturaleza": {
+            "Privada": 128
+        }
+    },
+    {
+        "sector": {
+            "Actividades de administración empresarial; actividades de consultoría de gestión": 1,
+            "Actividades de alquiler y arrendamiento": 1,
+            "Actividades de arquitectura e ingeniería; ensayos y análisis técnicos": 1,
+            "Actividades de asociaciones": 9,
+            "Actividades de atención de la salud humana": 3,
+            "Actividades de atención residencial medicalizada": 1,
+            "Actividades de empleo": 6,
+            "Actividades de juegos de azar y apuestas": 1,
+            "Actividades de saneamiento ambiental y otros servicios de gestión de desechos": 1,
+            "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)": 1,
+            "Actividades de servicios de comidas y bebidas": 8,
+            "Actividades de servicios de información": 4,
+            "Actividades de servicios financieros, excepto las de seguros y de pensiones": 1,
+            "Actividades especializadas para la construcción de edificios y obras de ingeniería civil": 4,
+            "Actividades inmobiliarias": 1,
+            "Agricultura, ganadería, caza y actividades de servicios conexas": 4,
+            "Almacenamiento y actividades complementarias al transporte": 1,
+            "Alojamiento": 2,
+            "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas": 2,
+            "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas": 7,
+            "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios": 1,
+            "Confección de prendas de vestir": 2,
+            "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles": 2,
+            "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas": 1,
+            "Elaboración de productos alimenticios": 3,
+            "Fabricación de productos elaborados de metal, excepto maquinaria y equipo": 1,
+            "Fabricación de productos metalúrgicos básicos": 1,
+            "Fabricación de productos textiles": 4,
+            "Instalación, mantenimiento y reparación especializado de maquinaria y equipo": 1,
+            "Investigación científica y desarrollo": 1,
+            "No Registra": 13,
+            "Obras de ingeniería civil": 3,
+            "Otras actividades de servicios personales": 26,
+            "Otras industrias manufactureras": 3,
+            "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social": 1,
+            "Suministro de electricidad, gas, vapor y aire acondicionado ": 1,
+            "Telecomunicaciones": 1,
+            "Transporte terrestre; transporte por tuberías": 4
+        }
+    },
+    {
+        "tamaño": {
+            "Grande  - Mayor a 200 trabajadores": 12,
+            "Mediana empresa - Entre 51 y 200 trabajadores": 22,
+            "Microempresa - Entre 2 y 10 trabajadores": 55,
+            "Pequeña empresa - Entre 11 y 50 trabajadores": 26,
+            "Unipersonal": 13
+        }
+    },
+    {
+        "ciudad": {
+            "BUCARAMANGA": 106,
+            "FLORIDABLANCA": 13,
+            "GIRÓN": 4,
+            "No pertenece al área metropolitana": 3,
+            "PIEDECUESTA": 2
+        }
+    },
+    {
+        "fechaRegistro": {
+            "01/11/2022": 1,
+            "02/02/2023": 2,
+            "02/11/2022": 1,
+            "02/12/2022": 2,
+            "03/02/2023": 1,
+            "03/10/2022": 1,
+            "04/11/2022": 2,
+            "05/09/2022": 1,
+            "05/10/2022": 4,
+            "05/12/2022": 1,
+            "06/09/2022": 3,
+            "07/09/2022": 5,
+            "07/10/2022": 2,
+            "07/12/2022": 1,
+            "08/02/2023": 3,
+            "09/02/2023": 1,
+            "10/10/2022": 2,
+            "10/11/2022": 1,
+            "11/10/2022": 1,
+            "12/09/2022": 4,
+            "12/10/2022": 1,
+            "13/02/2023": 3,
+            "13/09/2022": 2,
+            "13/10/2022": 2,
+            "13/12/2022": 2,
+            "14/09/2022": 4,
+            "14/10/2022": 3,
+            "14/12/2022": 1,
+            "15/02/2023": 2,
+            "15/09/2022": 3,
+            "15/11/2022": 5,
+            "16/02/2023": 1,
+            "16/11/2022": 2,
+            "17/11/2022": 3,
+            "18/01/2023": 1,
+            "18/10/2022": 4,
+            "18/11/2022": 4,
+            "19/10/2022": 1,
+            "19/12/2022": 1,
+            "20/02/2023": 1,
+            "20/09/2022": 1,
+            "20/10/2022": 2,
+            "21/02/2023": 1,
+            "21/09/2022": 3,
+            "21/10/2022": 5,
+            "21/11/2022": 1,
+            "22/02/2023": 3,
+            "22/11/2022": 3,
+            "23/02/2023": 2,
+            "23/09/2022": 1,
+            "24/01/2023": 1,
+            "24/10/2022": 1,
+            "25/01/2023": 3,
+            "25/10/2022": 4,
+            "25/11/2022": 2,
+            "26/01/2023": 1,
+            "26/10/2022": 2,
+            "27/09/2022": 1,
+            "28/04/2020": 1,
+            "28/11/2022": 1,
+            "29/11/2022": 2,
+            "30/01/2023": 2
+        }
+    },
+    {
+        "canalRegistro": {
+            "Agencia": 125,
+            "Autoregistro": 3
+        }
+    },
+    {
+        "agenciaAprobo": {
+            "GIRÓN COMFENALCO SANTANDER  CALLE 44": 1,
+            "IMEBU": 127
+        }
+    },
+    {
+        "agenteAprobo": {
+            "MANUEL FELIPE PEREZ": 86,
+            "SILVIA JULIANA AMOROCHO RAMIREZ": 41,
+            "Sergio Lopez Santos": 1
+        }
+    }
+]

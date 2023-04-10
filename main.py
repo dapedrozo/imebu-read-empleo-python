@@ -120,11 +120,11 @@ def vacantesPublicadas():
     with open('jsons/vacantesPublicadas.json', 'w+') as out_file:
         json.dump([cargo, empresa, estadoActual, programaGobierno, ciudad, discapacidad, puestosTrabajo, tipoContrato, fechaPublicacion, manoObraCalificada], out_file, sort_keys = True, indent = 4, ensure_ascii = False)
 
-saveOferentesInscritos()
-saveOferentesRemitidos()
-saveOferentesColocados()
-empresasIncritas()
-vacantesPublicadas()
+#saveOferentesInscritos()
+#saveOferentesRemitidos()
+#saveOferentesColocados()
+#empresasIncritas()
+#vacantesPublicadas()
 
 @app.route('/oferentes-inscritos-stats', methods=['GET'])
 def OferentesInscritosStats():
