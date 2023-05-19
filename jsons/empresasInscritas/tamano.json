@@ -1,0 +1,28 @@
+[
+    [
+        [
+            "",
+            "Tamaño"
+        ],
+        [
+            "Microempresa - Entre 2 y 10 trabajadores",
+            55
+        ],
+        [
+            "Pequeña empresa - Entre 11 y 50 trabajadores",
+            26
+        ],
+        [
+            "Mediana empresa - Entre 51 y 200 trabajadores",
+            22
+        ],
+        [
+            "Unipersonal",
+            13
+        ],
+        [
+            "Grande  - Mayor a 200 trabajadores",
+            12
+        ]
+    ]
+]

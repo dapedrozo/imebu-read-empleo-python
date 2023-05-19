@@ -1,0 +1,52 @@
+[
+    [
+        [
+            "",
+            "Nivel de Estudio"
+        ],
+        [
+            "Media(10-13)",
+            520
+        ],
+        [
+            "No Registra",
+            380
+        ],
+        [
+            "Universitaria",
+            262
+        ],
+        [
+            "Técnica Laboral",
+            167
+        ],
+        [
+            "Tecnológica",
+            135
+        ],
+        [
+            "Básica Primaria(1-5)",
+            53
+        ],
+        [
+            "Básica Secundaria(6-9)",
+            36
+        ],
+        [
+            "Especialización",
+            22
+        ],
+        [
+            "Técnica Profesional",
+            22
+        ],
+        [
+            "Maestría",
+            11
+        ],
+        [
+            "Doctorado",
+            2
+        ]
+    ]
+]

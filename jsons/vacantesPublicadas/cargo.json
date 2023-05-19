@@ -1,0 +1,1004 @@
+[
+    [
+        [
+            "",
+            "Cargo"
+        ],
+        [
+            "Auxiliar contable",
+            38
+        ],
+        [
+            "Asesor comercial",
+            25
+        ],
+        [
+            "Vendedor  ",
+            17
+        ],
+        [
+            "Asesor comercial de ventas ",
+            17
+        ],
+        [
+            "Auxiliar de enfermería",
+            17
+        ],
+        [
+            "Auxiliar administrativo",
+            14
+        ],
+        [
+            "Auxiliar logístico",
+            14
+        ],
+        [
+            "Auxiliar de cocina",
+            13
+        ],
+        [
+            "Operario de producción",
+            12
+        ],
+        [
+            "Conductor",
+            12
+        ],
+        [
+            "Auxiliar de servicios generales",
+            10
+        ],
+        [
+            "Vigilante",
+            9
+        ],
+        [
+            "Operario de máquinas ",
+            9
+        ],
+        [
+            "Asistente administrativo",
+            8
+        ],
+        [
+            "Auxiliar de bodega",
+            7
+        ],
+        [
+            "Psicólogo",
+            7
+        ],
+        [
+            "Mesero",
+            7
+        ],
+        [
+            "Técnico electricista  ",
+            6
+        ],
+        [
+            "Electromecánico",
+            6
+        ],
+        [
+            "Jardinero en mantenimiento de áreas verdes y jardines privados",
+            6
+        ],
+        [
+            "Asesor servicio al cliente",
+            6
+        ],
+        [
+            "Teleoperador",
+            6
+        ],
+        [
+            "Cajero",
+            6
+        ],
+        [
+            "Auxiliar de atención al cliente",
+            6
+        ],
+        [
+            "Operador de máquina plana",
+            5
+        ],
+        [
+            "Guardia de seguridad",
+            5
+        ],
+        [
+            "AuxilIar de aseo y limpieza",
+            5
+        ],
+        [
+            "Agente de call center cobranzas",
+            5
+        ],
+        [
+            "Auxiliar de almacén y bodega",
+            4
+        ],
+        [
+            "Agente de ventas ",
+            4
+        ],
+        [
+            "Montacarguista",
+            4
+        ],
+        [
+            "Auxiliar de cafetería",
+            4
+        ],
+        [
+            "Soporte técnico en sistemas",
+            4
+        ],
+        [
+            "Repartidor de domicilios",
+            4
+        ],
+        [
+            "Contador",
+            4
+        ],
+        [
+            "Auxiliar de corte de carne",
+            4
+        ],
+        [
+            "Ayudante de obra",
+            4
+        ],
+        [
+            "Jefe de producción",
+            4
+        ],
+        [
+            "Jefe de logística",
+            4
+        ],
+        [
+            "Agente de Call center",
+            4
+        ],
+        [
+            "Asistente de recursos humanos",
+            4
+        ],
+        [
+            "Panadero",
+            3
+        ],
+        [
+            "Auxiliar de caja",
+            3
+        ],
+        [
+            "Almacenista",
+            3
+        ],
+        [
+            "Diseñador gráfico",
+            3
+        ],
+        [
+            "Ingeniero industrial",
+            3
+        ],
+        [
+            "Enfermero profesional ",
+            3
+        ],
+        [
+            "Fisioterapeuta",
+            3
+        ],
+        [
+            "Panadero pastelero",
+            3
+        ],
+        [
+            "Soldador",
+            3
+        ],
+        [
+            "Profesional en salud ocupacional",
+            3
+        ],
+        [
+            "Surtidor de abarrotes o estantería",
+            3
+        ],
+        [
+            "Auxiliar de farmacia",
+            3
+        ],
+        [
+            "Operador de cámaras",
+            3
+        ],
+        [
+            "Gestor de mercadeo digital y redes sociales",
+            3
+        ],
+        [
+            "Fonoaudiólogo",
+            3
+        ],
+        [
+            "Auxiliar de servicio al cliente",
+            3
+        ],
+        [
+            "Supervisor",
+            3
+        ],
+        [
+            "Auxiliar de cartera",
+            3
+        ],
+        [
+            "Administrador de ventas y servicios",
+            3
+        ],
+        [
+            "Chef de cocina",
+            3
+        ],
+        [
+            "Programador ",
+            2
+        ],
+        [
+            "Mercaderista",
+            2
+        ],
+        [
+            "Auditor",
+            2
+        ],
+        [
+            "Empleado de granja en general",
+            2
+        ],
+        [
+            "Empleado de recursos humanos ",
+            2
+        ],
+        [
+            "Promotor",
+            2
+        ],
+        [
+            "Coordinador administrativo",
+            2
+        ],
+        [
+            "Analista de compras",
+            2
+        ],
+        [
+            "Armador  ",
+            2
+        ],
+        [
+            "Bodeguero",
+            2
+        ],
+        [
+            "Fabricante de calzado",
+            2
+        ],
+        [
+            "Recepcionista",
+            2
+        ],
+        [
+            "Auxiliar de seguridad",
+            2
+        ],
+        [
+            "Encargado de inventario",
+            2
+        ],
+        [
+            "Ingeniero civil",
+            2
+        ],
+        [
+            "Impulsador de ventas",
+            2
+        ],
+        [
+            "Analista de crédito",
+            2
+        ],
+        [
+            "Empleado servicios generales",
+            2
+        ],
+        [
+            "Auxiliar de calidad",
+            2
+        ],
+        [
+            "Operario logístico",
+            2
+        ],
+        [
+            "Ayudante Electricista",
+            2
+        ],
+        [
+            "Vendedor externo",
+            2
+        ],
+        [
+            "Auxiliar de descargue",
+            2
+        ],
+        [
+            "Operario agricola",
+            2
+        ],
+        [
+            "Regente de Farmacia",
+            2
+        ],
+        [
+            "Tecnologo en salud ocupacional",
+            2
+        ],
+        [
+            "Bacteriólogo",
+            2
+        ],
+        [
+            "Tesorero ",
+            2
+        ],
+        [
+            "Soldador armador",
+            2
+        ],
+        [
+            "Auxiliar de inventario",
+            2
+        ],
+        [
+            "Supervisor de obra de construcción",
+            2
+        ],
+        [
+            "Asistente ",
+            2
+        ],
+        [
+            "Mecánico automotriz",
+            2
+        ],
+        [
+            "Desarrollador de software",
+            2
+        ],
+        [
+            "Reparador de equipo de telecomunicaciones",
+            2
+        ],
+        [
+            "Jardinero de parques",
+            2
+        ],
+        [
+            "Operario de planta",
+            2
+        ],
+        [
+            "Terapeuta Ocupacional",
+            2
+        ],
+        [
+            "Empleado de parqueadero",
+            2
+        ],
+        [
+            "Expendedor de gasolina",
+            2
+        ],
+        [
+            "Ayudante de panadería en procesamiento de alimentos",
+            2
+        ],
+        [
+            "Administrador de empresas",
+            2
+        ],
+        [
+            "Ingeniero de alimentos",
+            2
+        ],
+        [
+            "Agente de publicidad",
+            2
+        ],
+        [
+            "Ingeniero mecánico",
+            2
+        ],
+        [
+            "Asesor de ventas puerta a puerta",
+            2
+        ],
+        [
+            "Ingeniero eléctrico",
+            2
+        ],
+        [
+            "Auxiliar de facturación",
+            2
+        ],
+        [
+            "Cuidador de personas mayores",
+            2
+        ],
+        [
+            "Supervisor de puntos de venta",
+            2
+        ],
+        [
+            "Conductor de camión de reparto ",
+            2
+        ],
+        [
+            "Tecnólogo de informática",
+            2
+        ],
+        [
+            "Botones",
+            2
+        ],
+        [
+            "Auxiliar operativo",
+            2
+        ],
+        [
+            "Agente de compras",
+            2
+        ],
+        [
+            "Ayudante vidriero",
+            1
+        ],
+        [
+            "Coordinador de call center",
+            1
+        ],
+        [
+            "Auxiliar de Archivo y Registro",
+            1
+        ],
+        [
+            "Supervisor de servicio al cliente",
+            1
+        ],
+        [
+            "Encargado de estación de servicio",
+            1
+        ],
+        [
+            "Mecánico de automóviles",
+            1
+        ],
+        [
+            "Auxiliar de imagen médica",
+            1
+        ],
+        [
+            "Clasificador de aves de beneficiadero",
+            1
+        ],
+        [
+            "Supervisor de construcción obras civiles",
+            1
+        ],
+        [
+            "Enfermera profesional",
+            1
+        ],
+        [
+            "Médico general",
+            1
+        ],
+        [
+            "Auxiliar de diseño gráfico",
+            1
+        ],
+        [
+            "Jefe de contabilidad",
+            1
+        ],
+        [
+            "Auxiliar de nómina y prestaciones",
+            1
+        ],
+        [
+            "Ayudante de producción",
+            1
+        ],
+        [
+            "Tornero ",
+            1
+        ],
+        [
+            "Encuestador ",
+            1
+        ],
+        [
+            "Operador asistente de cámara",
+            1
+        ],
+        [
+            "Promotor de ventas",
+            1
+        ],
+        [
+            "Reparadores y operarios de mantenimiento ",
+            1
+        ],
+        [
+            "Ajustador de maquinaria textil",
+            1
+        ],
+        [
+            "Operador de equipo   ",
+            1
+        ],
+        [
+            "Telemercaderista ",
+            1
+        ],
+        [
+            "Especialista en bienestar laboral",
+            1
+        ],
+        [
+            "Impulsador ",
+            1
+        ],
+        [
+            "Jefe de cocina",
+            1
+        ],
+        [
+            "Coordinador de enfermería",
+            1
+        ],
+        [
+            "Andamiero",
+            1
+        ],
+        [
+            "Auxiliar de cuidados a pacientes",
+            1
+        ],
+        [
+            "Ingeniero de diseño industrial",
+            1
+        ],
+        [
+            "Director administrativo",
+            1
+        ],
+        [
+            "Ensamblador de productos de metal",
+            1
+        ],
+        [
+            "Director",
+            1
+        ],
+        [
+            "Vendedor puerta a puerta",
+            1
+        ],
+        [
+            "Operario de mantenimiento de  maquinaria",
+            1
+        ],
+        [
+            "Profesor de educación superior de humanidades ",
+            1
+        ],
+        [
+            "Contador público",
+            1
+        ],
+        [
+            "Asesor ",
+            1
+        ],
+        [
+            "Coordinador Comercial",
+            1
+        ],
+        [
+            "Abogado",
+            1
+        ],
+        [
+            "Asistente judicial",
+            1
+        ],
+        [
+            "Jefe de almacén",
+            1
+        ],
+        [
+            "Diseñador industrial",
+            1
+        ],
+        [
+            "Bartender",
+            1
+        ],
+        [
+            "Operario de empaque",
+            1
+        ],
+        [
+            "Funcionario de desarrollo de personal",
+            1
+        ],
+        [
+            "Ornamentador",
+            1
+        ],
+        [
+            "Coordinador de nómina",
+            1
+        ],
+        [
+            "Empleada doméstica",
+            1
+        ],
+        [
+            "Trabajador de estación de servicio",
+            1
+        ],
+        [
+            "Pizzero",
+            1
+        ],
+        [
+            "Contable",
+            1
+        ],
+        [
+            "Jefe de inventarios",
+            1
+        ],
+        [
+            "Analista de impuestos",
+            1
+        ],
+        [
+            "Analista de trade marketing",
+            1
+        ],
+        [
+            "Ingeniero eléctronico",
+            1
+        ],
+        [
+            "Analista de nómina",
+            1
+        ],
+        [
+            "Salvavidas",
+            1
+        ],
+        [
+            "Ayudante y Obrero de Construcción",
+            1
+        ],
+        [
+            "Conductor de camión cisterna",
+            1
+        ],
+        [
+            "Mecánico automotor",
+            1
+        ],
+        [
+            "Administrador de negocios",
+            1
+        ],
+        [
+            "Ensamblador de máquinas de coser",
+            1
+        ],
+        [
+            "Instalador de redes telecomunicaciones",
+            1
+        ],
+        [
+            "Anfitrión de restaurante",
+            1
+        ],
+        [
+            "Supervisor de supermercado",
+            1
+        ],
+        [
+            "Supervisor de vigilancia",
+            1
+        ],
+        [
+            "Reparador de aparatos electrónicos",
+            1
+        ],
+        [
+            "Mecánico",
+            1
+        ],
+        [
+            "Analista psicológico",
+            1
+        ],
+        [
+            "Supernumerario",
+            1
+        ],
+        [
+            "Impresor de textiles",
+            1
+        ],
+        [
+            "Planchador de textiles ",
+            1
+        ],
+        [
+            "Recreador",
+            1
+        ],
+        [
+            "Auxiliar de funeraria",
+            1
+        ],
+        [
+            "Costurero",
+            1
+        ],
+        [
+            "Solador",
+            1
+        ],
+        [
+            "Auxiliar de planta",
+            1
+        ],
+        [
+            "Sastre de confección",
+            1
+        ],
+        [
+            "Decorador ",
+            1
+        ],
+        [
+            "Supervisor de taller  ",
+            1
+        ],
+        [
+            "Ayudante de construcción",
+            1
+        ],
+        [
+            "Representante comercial",
+            1
+        ],
+        [
+            "Auxiliar de recaudos",
+            1
+        ],
+        [
+            "Ingeniero de sistemas",
+            1
+        ],
+        [
+            "Barista",
+            1
+        ],
+        [
+            "Auxiliar de operaciones",
+            1
+        ],
+        [
+            "Agente comercial de ventas",
+            1
+        ],
+        [
+            "Ingeniero de metalurgia",
+            1
+        ],
+        [
+            "Administrador punto de venta",
+            1
+        ],
+        [
+            "Técnico de salud ocupacional",
+            1
+        ],
+        [
+            "Patronista de productos textiles",
+            1
+        ],
+        [
+            "Ensamblador de productos textiles",
+            1
+        ],
+        [
+            "Analista administrativo",
+            1
+        ],
+        [
+            "Carpintero",
+            1
+        ],
+        [
+            "Auxiliar HSE - Sector Hidrocarburos",
+            1
+        ],
+        [
+            "Auxiliar de almacén",
+            1
+        ],
+        [
+            "Supervisor de oficina",
+            1
+        ],
+        [
+            "Oficial de construcción",
+            1
+        ],
+        [
+            "Coordinador de calidad",
+            1
+        ],
+        [
+            "Obrero de construcción",
+            1
+        ],
+        [
+            "Conductor de camión de basura",
+            1
+        ],
+        [
+            "Ayudante de aseo",
+            1
+        ],
+        [
+            "Nutricionista",
+            1
+        ],
+        [
+            "Director de recursos humanos",
+            1
+        ],
+        [
+            "Optómetra",
+            1
+        ],
+        [
+            "Asistente de nómina",
+            1
+        ],
+        [
+            "Auditor contable",
+            1
+        ],
+        [
+            "Director de gestión humana",
+            1
+        ],
+        [
+            "Aseador de fachadas ",
+            1
+        ],
+        [
+            "Inspector de seguridad industrial",
+            1
+        ],
+        [
+            "Técnicos electromecánicos",
+            1
+        ],
+        [
+            "Ayudante de jardinería",
+            1
+        ],
+        [
+            "Electricista",
+            1
+        ],
+        [
+            "Pintor",
+            1
+        ],
+        [
+            "Operador de montacargas ",
+            1
+        ],
+        [
+            "Aseador",
+            1
+        ],
+        [
+            "Director de logística",
+            1
+        ],
+        [
+            "Ayudante",
+            1
+        ],
+        [
+            "Cocinero",
+            1
+        ],
+        [
+            "Supervisor de producción  ",
+            1
+        ],
+        [
+            "Consultor de tecnología de la información y de sistema de gestión ",
+            1
+        ],
+        [
+            "Recepcionista de consultorio médico",
+            1
+        ],
+        [
+            "Técnico de Sistemas",
+            1
+        ],
+        [
+            "Camarero",
+            1
+        ],
+        [
+            "Almacenista de obra",
+            1
+        ],
+        [
+            "Fotógrafo",
+            1
+        ],
+        [
+            "Analista de comercio internacional",
+            1
+        ],
+        [
+            "Supervisor de ventas",
+            1
+        ],
+        [
+            "Vendedor a domicilio",
+            1
+        ],
+        [
+            "Orientador",
+            1
+        ],
+        [
+            "Mensajero",
+            1
+        ],
+        [
+            "Auditor de calidad",
+            1
+        ]
+    ]
+]
