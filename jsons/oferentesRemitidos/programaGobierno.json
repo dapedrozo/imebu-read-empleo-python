@@ -2,14 +2,20 @@
     [
         [
             "",
-            "Programa de Gobierno"
+            "2022",
+            "2023",
+            "Total"
         ],
         [
             "No pertenece",
+            2600,
+            1381,
             3981
         ],
         [
             "Si pertenece",
+            2119,
+            1337,
             3456
         ]
     ]

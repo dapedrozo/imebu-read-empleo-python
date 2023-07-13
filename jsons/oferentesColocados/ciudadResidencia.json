@@ -2,26 +2,38 @@
     [
         [
             "",
-            "Ciudad de Residencia"
+            "2023",
+            "2022",
+            "Total"
         ],
         [
             "BUCARAMANGA",
+            102,
+            426,
             528
         ],
         [
             "FLORIDABLANCA",
+            21,
+            116,
             137
         ],
         [
-            "No pertenece al área metropolitana",
+            "No pertenece al Ã¡rea metropolitana",
+            15,
+            90,
             105
         ],
         [
-            "GIRÓN",
+            "GIRÃ“N",
+            14,
+            80,
             94
         ],
         [
             "PIEDECUESTA",
+            16,
+            70,
             86
         ]
     ]

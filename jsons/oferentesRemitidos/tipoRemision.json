@@ -2,15 +2,21 @@
     [
         [
             "",
-            "Tipo de Remision"
-        ],
-        [
-            "Remitido",
-            4607
+            "2022",
+            "2023",
+            "Total"
         ],
         [
             "Autopostulado Asistido",
+            1343,
+            1487,
             2830
+        ],
+        [
+            "Remitido",
+            3376,
+            1231,
+            4607
         ]
     ]
 ]

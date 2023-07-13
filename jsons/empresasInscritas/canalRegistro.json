@@ -2,14 +2,23 @@
     [
         [
             "",
-            "Canal de Registro"
+            "2023",
+            "2022",
+            "2020",
+            "Total"
         ],
         [
             "Agencia",
+            28,
+            96,
+            1,
             125
         ],
         [
             "Autoregistro",
+            0,
+            3,
+            0,
             3
         ]
     ]

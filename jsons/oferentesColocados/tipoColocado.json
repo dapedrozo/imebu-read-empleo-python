@@ -2,18 +2,26 @@
     [
         [
             "",
-            "Tipo de Colocado"
-        ],
-        [
-            "Directo por Remisión",
-            668
+            "2023",
+            "2022",
+            "Total"
         ],
         [
             "Indirecto por Direccionamiento",
+            53,
+            209,
             262
         ],
         [
+            "Directo por RemisiÃ³n",
+            114,
+            554,
+            668
+        ],
+        [
             "Directo Autopostulado",
+            1,
+            19,
             20
         ]
     ]

@@ -2,14 +2,20 @@
     [
         [
             "",
-            "Condiciones Especiales"
+            "2023",
+            "2022",
+            "Total"
         ],
         [
             "No tiene",
+            164,
+            760,
             924
         ],
         [
             "Si tiene",
+            4,
+            22,
             26
         ]
     ]

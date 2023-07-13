@@ -2,1002 +2,1502 @@
     [
         [
             "",
-            "Cargo"
+            "2023",
+            "2022",
+            "Total"
+        ],
+        [
+            "Contador",
+            3,
+            1,
+            4
+        ],
+        [
+            "Conductor",
+            7,
+            5,
+            12
+        ],
+        [
+            "Asistente de recursos humanos",
+            4,
+            0,
+            4
         ],
         [
             "Auxiliar contable",
+            22,
+            16,
             38
         ],
         [
-            "Asesor comercial",
-            25
-        ],
-        [
-            "Vendedor  ",
-            17
+            "Auditor de calidad",
+            1,
+            0,
+            1
         ],
         [
             "Asesor comercial de ventas ",
+            9,
+            8,
             17
         ],
         [
-            "Auxiliar de enfermer韆",
+            "Auxiliar de imagen m茅dica",
+            1,
+            0,
+            1
+        ],
+        [
+            "T茅cnico electricista  ",
+            2,
+            4,
+            6
+        ],
+        [
+            "Ayudante de obra",
+            2,
+            2,
+            4
+        ],
+        [
+            "Agente de call center cobranzas",
+            3,
+            2,
+            5
+        ],
+        [
+            "Supervisor de puntos de venta",
+            2,
+            0,
+            2
+        ],
+        [
+            "Asesor comercial",
+            16,
+            9,
+            25
+        ],
+        [
+            "Auxiliar de cocina",
+            5,
+            8,
+            13
+        ],
+        [
+            "Ayudante vidriero",
+            1,
+            0,
+            1
+        ],
+        [
+            "Soldador",
+            2,
+            1,
+            3
+        ],
+        [
+            "Tornero ",
+            1,
+            0,
+            1
+        ],
+        [
+            "Vendedor  ",
+            8,
+            9,
             17
         ],
         [
             "Auxiliar administrativo",
+            8,
+            6,
             14
-        ],
-        [
-            "Auxiliar log韘tico",
-            14
-        ],
-        [
-            "Auxiliar de cocina",
-            13
-        ],
-        [
-            "Operario de producci髇",
-            12
-        ],
-        [
-            "Conductor",
-            12
-        ],
-        [
-            "Auxiliar de servicios generales",
-            10
-        ],
-        [
-            "Vigilante",
-            9
-        ],
-        [
-            "Operario de m醧uinas ",
-            9
-        ],
-        [
-            "Asistente administrativo",
-            8
-        ],
-        [
-            "Auxiliar de bodega",
-            7
-        ],
-        [
-            "Psic髄ogo",
-            7
-        ],
-        [
-            "Mesero",
-            7
-        ],
-        [
-            "T閏nico electricista  ",
-            6
-        ],
-        [
-            "Electromec醤ico",
-            6
-        ],
-        [
-            "Jardinero en mantenimiento de 醨eas verdes y jardines privados",
-            6
-        ],
-        [
-            "Asesor servicio al cliente",
-            6
-        ],
-        [
-            "Teleoperador",
-            6
-        ],
-        [
-            "Cajero",
-            6
-        ],
-        [
-            "Auxiliar de atenci髇 al cliente",
-            6
-        ],
-        [
-            "Operador de m醧uina plana",
-            5
-        ],
-        [
-            "Guardia de seguridad",
-            5
         ],
         [
             "AuxilIar de aseo y limpieza",
+            3,
+            2,
             5
         ],
         [
-            "Agente de call center cobranzas",
-            5
+            "Electromec谩nico",
+            4,
+            2,
+            6
         ],
         [
-            "Auxiliar de almac閚 y bodega",
-            4
+            "Asistente administrativo",
+            5,
+            3,
+            8
         ],
         [
-            "Agente de ventas ",
-            4
+            "Operario de producci贸n",
+            5,
+            7,
+            12
         ],
         [
-            "Montacarguista",
-            4
+            "Auxiliar log铆stico",
+            6,
+            8,
+            14
         ],
         [
-            "Auxiliar de cafeter韆",
-            4
-        ],
-        [
-            "Soporte t閏nico en sistemas",
-            4
-        ],
-        [
-            "Repartidor de domicilios",
-            4
-        ],
-        [
-            "Contador",
-            4
-        ],
-        [
-            "Auxiliar de corte de carne",
-            4
-        ],
-        [
-            "Ayudante de obra",
-            4
-        ],
-        [
-            "Jefe de producci髇",
-            4
-        ],
-        [
-            "Jefe de log韘tica",
-            4
-        ],
-        [
-            "Agente de Call center",
-            4
-        ],
-        [
-            "Asistente de recursos humanos",
-            4
-        ],
-        [
-            "Panadero",
-            3
-        ],
-        [
-            "Auxiliar de caja",
-            3
-        ],
-        [
-            "Almacenista",
-            3
-        ],
-        [
-            "Dise馻dor gr醘ico",
-            3
-        ],
-        [
-            "Ingeniero industrial",
-            3
-        ],
-        [
-            "Enfermero profesional ",
-            3
-        ],
-        [
-            "Fisioterapeuta",
-            3
-        ],
-        [
-            "Panadero pastelero",
-            3
-        ],
-        [
-            "Soldador",
-            3
-        ],
-        [
-            "Profesional en salud ocupacional",
-            3
-        ],
-        [
-            "Surtidor de abarrotes o estanter韆",
-            3
-        ],
-        [
-            "Auxiliar de farmacia",
-            3
-        ],
-        [
-            "Operador de c醡aras",
-            3
-        ],
-        [
-            "Gestor de mercadeo digital y redes sociales",
-            3
-        ],
-        [
-            "Fonoaudi髄ogo",
-            3
-        ],
-        [
-            "Auxiliar de servicio al cliente",
-            3
-        ],
-        [
-            "Supervisor",
-            3
-        ],
-        [
-            "Auxiliar de cartera",
-            3
-        ],
-        [
-            "Administrador de ventas y servicios",
-            3
-        ],
-        [
-            "Chef de cocina",
-            3
-        ],
-        [
-            "Programador ",
-            2
-        ],
-        [
-            "Mercaderista",
-            2
-        ],
-        [
-            "Auditor",
-            2
-        ],
-        [
-            "Empleado de granja en general",
-            2
-        ],
-        [
-            "Empleado de recursos humanos ",
+            "Bodeguero",
+            2,
+            0,
             2
         ],
         [
             "Promotor",
-            2
-        ],
-        [
-            "Coordinador administrativo",
-            2
-        ],
-        [
-            "Analista de compras",
-            2
-        ],
-        [
-            "Armador  ",
-            2
-        ],
-        [
-            "Bodeguero",
-            2
-        ],
-        [
-            "Fabricante de calzado",
-            2
-        ],
-        [
-            "Recepcionista",
-            2
-        ],
-        [
-            "Auxiliar de seguridad",
-            2
-        ],
-        [
-            "Encargado de inventario",
-            2
-        ],
-        [
-            "Ingeniero civil",
-            2
-        ],
-        [
-            "Impulsador de ventas",
-            2
-        ],
-        [
-            "Analista de cr閐ito",
-            2
-        ],
-        [
-            "Empleado servicios generales",
-            2
-        ],
-        [
-            "Auxiliar de calidad",
-            2
-        ],
-        [
-            "Operario log韘tico",
-            2
-        ],
-        [
-            "Ayudante Electricista",
-            2
-        ],
-        [
-            "Vendedor externo",
-            2
-        ],
-        [
-            "Auxiliar de descargue",
-            2
-        ],
-        [
-            "Operario agricola",
-            2
-        ],
-        [
-            "Regente de Farmacia",
-            2
-        ],
-        [
-            "Tecnologo en salud ocupacional",
-            2
-        ],
-        [
-            "Bacteri髄ogo",
-            2
-        ],
-        [
-            "Tesorero ",
-            2
-        ],
-        [
-            "Soldador armador",
-            2
-        ],
-        [
-            "Auxiliar de inventario",
-            2
-        ],
-        [
-            "Supervisor de obra de construcci髇",
-            2
-        ],
-        [
-            "Asistente ",
-            2
-        ],
-        [
-            "Mec醤ico automotriz",
-            2
-        ],
-        [
-            "Desarrollador de software",
-            2
-        ],
-        [
-            "Reparador de equipo de telecomunicaciones",
-            2
-        ],
-        [
-            "Jardinero de parques",
-            2
-        ],
-        [
-            "Operario de planta",
-            2
-        ],
-        [
-            "Terapeuta Ocupacional",
-            2
-        ],
-        [
-            "Empleado de parqueadero",
-            2
-        ],
-        [
-            "Expendedor de gasolina",
-            2
-        ],
-        [
-            "Ayudante de panader韆 en procesamiento de alimentos",
-            2
-        ],
-        [
-            "Administrador de empresas",
+            2,
+            0,
             2
         ],
         [
             "Ingeniero de alimentos",
+            1,
+            1,
             2
         ],
         [
-            "Agente de publicidad",
-            2
+            "Montacarguista",
+            1,
+            3,
+            4
         ],
         [
-            "Ingeniero mec醤ico",
-            2
-        ],
-        [
-            "Asesor de ventas puerta a puerta",
-            2
-        ],
-        [
-            "Ingeniero el閏trico",
-            2
-        ],
-        [
-            "Auxiliar de facturaci髇",
-            2
-        ],
-        [
-            "Cuidador de personas mayores",
-            2
-        ],
-        [
-            "Supervisor de puntos de venta",
-            2
-        ],
-        [
-            "Conductor de cami髇 de reparto ",
-            2
-        ],
-        [
-            "Tecn髄ogo de inform醫ica",
-            2
-        ],
-        [
-            "Botones",
-            2
-        ],
-        [
-            "Auxiliar operativo",
-            2
-        ],
-        [
-            "Agente de compras",
-            2
-        ],
-        [
-            "Ayudante vidriero",
+            "Ayudante de producci贸n",
+            1,
+            0,
             1
         ],
         [
-            "Coordinador de call center",
-            1
-        ],
-        [
-            "Auxiliar de Archivo y Registro",
-            1
-        ],
-        [
-            "Supervisor de servicio al cliente",
-            1
-        ],
-        [
-            "Encargado de estaci髇 de servicio",
-            1
-        ],
-        [
-            "Mec醤ico de autom髒iles",
-            1
-        ],
-        [
-            "Auxiliar de imagen m閐ica",
-            1
-        ],
-        [
-            "Clasificador de aves de beneficiadero",
-            1
-        ],
-        [
-            "Supervisor de construcci髇 obras civiles",
-            1
-        ],
-        [
-            "Enfermera profesional",
-            1
-        ],
-        [
-            "M閐ico general",
-            1
-        ],
-        [
-            "Auxiliar de dise駉 gr醘ico",
-            1
-        ],
-        [
-            "Jefe de contabilidad",
-            1
-        ],
-        [
-            "Auxiliar de n髆ina y prestaciones",
-            1
-        ],
-        [
-            "Ayudante de producci髇",
-            1
-        ],
-        [
-            "Tornero ",
-            1
-        ],
-        [
-            "Encuestador ",
-            1
-        ],
-        [
-            "Operador asistente de c醡ara",
-            1
-        ],
-        [
-            "Promotor de ventas",
-            1
-        ],
-        [
-            "Reparadores y operarios de mantenimiento ",
-            1
-        ],
-        [
-            "Ajustador de maquinaria textil",
-            1
-        ],
-        [
-            "Operador de equipo   ",
-            1
-        ],
-        [
-            "Telemercaderista ",
-            1
-        ],
-        [
-            "Especialista en bienestar laboral",
-            1
+            "Almacenista",
+            1,
+            2,
+            3
         ],
         [
             "Impulsador ",
+            1,
+            0,
             1
         ],
         [
-            "Jefe de cocina",
+            "Encargado de estaci贸n de servicio",
+            1,
+            0,
             1
         ],
         [
-            "Coordinador de enfermer韆",
+            "Expendedor de gasolina",
+            2,
+            0,
+            2
+        ],
+        [
+            "Salvavidas",
+            1,
+            0,
+            1
+        ],
+        [
+            "Coordinador de n贸mina",
+            1,
+            0,
+            1
+        ],
+        [
+            "Operario de planta",
+            1,
+            1,
+            2
+        ],
+        [
+            "Vendedor puerta a puerta",
+            1,
+            0,
+            1
+        ],
+        [
+            "Jefe de almac茅n",
+            1,
+            0,
+            1
+        ],
+        [
+            "Jardinero en mantenimiento de 谩reas verdes y jardines privados",
+            3,
+            3,
+            6
+        ],
+        [
+            "Ingeniero el茅ctronico",
+            1,
+            0,
+            1
+        ],
+        [
+            "Ayudante de panader铆a en procesamiento de alimentos",
+            1,
+            1,
+            2
+        ],
+        [
+            "Auxiliar de corte de carne",
+            2,
+            2,
+            4
+        ],
+        [
+            "Jefe de inventarios",
+            1,
+            0,
+            1
+        ],
+        [
+            "Profesional en salud ocupacional",
+            2,
+            1,
+            3
+        ],
+        [
+            "Operador de c谩maras",
+            2,
+            1,
+            3
+        ],
+        [
+            "Funcionario de desarrollo de personal",
+            1,
+            0,
+            1
+        ],
+        [
+            "Dise帽ador industrial",
+            1,
+            0,
+            1
+        ],
+        [
+            "Tecn贸logo de inform谩tica",
+            1,
+            1,
+            2
+        ],
+        [
+            "Surtidor de abarrotes o estanter铆a",
+            1,
+            2,
+            3
+        ],
+        [
+            "Auxiliar de cafeter铆a",
+            1,
+            3,
+            4
+        ],
+        [
+            "Especialista en bienestar laboral",
+            1,
+            0,
+            1
+        ],
+        [
+            "Psic贸logo",
+            5,
+            2,
+            7
+        ],
+        [
+            "Auxiliar de enfermer铆a",
+            10,
+            7,
+            17
+        ],
+        [
+            "Agente de Call center",
+            1,
+            3,
+            4
+        ],
+        [
+            "Auxiliar de servicio al cliente",
+            2,
+            1,
+            3
+        ],
+        [
+            "Auxiliar de almac茅n y bodega",
+            3,
+            1,
+            4
+        ],
+        [
+            "Ensamblador de productos de metal",
+            1,
+            0,
+            1
+        ],
+        [
+            "Regente de Farmacia",
+            2,
+            0,
+            2
+        ],
+        [
+            "Ingeniero de dise帽o industrial",
+            1,
+            0,
             1
         ],
         [
             "Andamiero",
+            1,
+            0,
             1
         ],
         [
-            "Auxiliar de cuidados a pacientes",
-            1
+            "Auxiliar de atenci贸n al cliente",
+            2,
+            4,
+            6
         ],
         [
-            "Ingeniero de dise駉 industrial",
-            1
+            "Dise帽ador gr谩fico",
+            2,
+            1,
+            3
         ],
         [
-            "Director administrativo",
-            1
-        ],
-        [
-            "Ensamblador de productos de metal",
-            1
-        ],
-        [
-            "Director",
-            1
-        ],
-        [
-            "Vendedor puerta a puerta",
+            "Jefe de cocina",
+            1,
+            0,
             1
         ],
         [
             "Operario de mantenimiento de  maquinaria",
+            1,
+            0,
             1
         ],
         [
-            "Profesor de educaci髇 superior de humanidades ",
-            1
+            "Jefe de log铆stica",
+            2,
+            2,
+            4
         ],
         [
-            "Contador p鷅lico",
-            1
+            "Soldador armador",
+            1,
+            1,
+            2
         ],
         [
-            "Asesor ",
-            1
+            "Teleoperador",
+            1,
+            5,
+            6
+        ],
+        [
+            "Mesero",
+            2,
+            5,
+            7
         ],
         [
             "Coordinador Comercial",
+            1,
+            0,
             1
+        ],
+        [
+            "Contador p煤blico",
+            1,
+            0,
+            1
+        ],
+        [
+            "Asistente ",
+            2,
+            0,
+            2
+        ],
+        [
+            "Desarrollador de software",
+            2,
+            0,
+            2
+        ],
+        [
+            "Programador ",
+            2,
+            0,
+            2
         ],
         [
             "Abogado",
+            1,
+            0,
             1
         ],
         [
-            "Asistente judicial",
+            "Empleado servicios generales",
+            1,
+            1,
+            2
+        ],
+        [
+            "Supervisor de obra de construcci贸n",
+            2,
+            0,
+            2
+        ],
+        [
+            "Asesor ",
+            1,
+            0,
             1
         ],
         [
-            "Jefe de almac閚",
+            "Director administrativo",
+            1,
+            0,
             1
         ],
         [
-            "Dise馻dor industrial",
+            "Auxiliar de cuidados a pacientes",
+            1,
+            0,
             1
         ],
         [
-            "Bartender",
+            "Director",
+            1,
+            0,
             1
         ],
         [
-            "Operario de empaque",
-            1
+            "Empleado de recursos humanos ",
+            2,
+            0,
+            2
         ],
         [
-            "Funcionario de desarrollo de personal",
-            1
-        ],
-        [
-            "Ornamentador",
-            1
-        ],
-        [
-            "Coordinador de n髆ina",
-            1
-        ],
-        [
-            "Empleada dom閟tica",
-            1
-        ],
-        [
-            "Trabajador de estaci髇 de servicio",
-            1
-        ],
-        [
-            "Pizzero",
-            1
-        ],
-        [
-            "Contable",
-            1
-        ],
-        [
-            "Jefe de inventarios",
-            1
+            "Auxiliar de seguridad",
+            2,
+            0,
+            2
         ],
         [
             "Analista de impuestos",
+            1,
+            0,
             1
         ],
         [
             "Analista de trade marketing",
+            1,
+            0,
             1
         ],
         [
-            "Ingeniero el閏tronico",
+            "Analista de n贸mina",
+            1,
+            0,
             1
         ],
         [
-            "Analista de n髆ina",
+            "Contable",
+            1,
+            0,
             1
         ],
         [
-            "Salvavidas",
+            "Asistente judicial",
+            1,
+            0,
             1
         ],
         [
-            "Ayudante y Obrero de Construcci髇",
+            "Vendedor externo",
+            1,
+            1,
+            2
+        ],
+        [
+            "Coordinador de enfermer铆a",
+            1,
+            0,
             1
         ],
         [
-            "Conductor de cami髇 cisterna",
+            "Asesor servicio al cliente",
+            4,
+            2,
+            6
+        ],
+        [
+            "Ingeniero industrial",
+            2,
+            1,
+            3
+        ],
+        [
+            "Tecnologo en salud ocupacional",
+            1,
+            1,
+            2
+        ],
+        [
+            "Vigilante",
+            2,
+            7,
+            9
+        ],
+        [
+            "Auxiliar de caja",
+            2,
+            1,
+            3
+        ],
+        [
+            "Pizzero",
+            1,
+            0,
             1
         ],
         [
-            "Mec醤ico automotor",
+            "Bartender",
+            1,
+            0,
             1
         ],
         [
-            "Administrador de negocios",
+            "Tesorero ",
+            2,
+            0,
+            2
+        ],
+        [
+            "Auxiliar de cartera",
+            2,
+            1,
+            3
+        ],
+        [
+            "Trabajador de estaci贸n de servicio",
+            1,
+            0,
             1
         ],
         [
-            "Ensamblador de m醧uinas de coser",
+            "Auditor",
+            1,
+            1,
+            2
+        ],
+        [
+            "Operario de m谩quinas ",
+            3,
+            6,
+            9
+        ],
+        [
+            "Repartidor de domicilios",
+            1,
+            3,
+            4
+        ],
+        [
+            "Conductor de cami贸n de reparto ",
+            1,
+            1,
+            2
+        ],
+        [
+            "Agente de ventas ",
+            1,
+            3,
+            4
+        ],
+        [
+            "Empleada dom茅stica",
+            1,
+            0,
             1
         ],
         [
-            "Instalador de redes telecomunicaciones",
+            "Gestor de mercadeo digital y redes sociales",
+            1,
+            2,
+            3
+        ],
+        [
+            "Auxiliar de servicios generales",
+            5,
+            5,
+            10
+        ],
+        [
+            "Terapeuta Ocupacional",
+            1,
+            1,
+            2
+        ],
+        [
+            "Fonoaudi贸logo",
+            1,
+            2,
+            3
+        ],
+        [
+            "Fisioterapeuta",
+            1,
+            2,
+            3
+        ],
+        [
+            "M茅dico general",
+            1,
+            0,
             1
         ],
         [
-            "Anfitri髇 de restaurante",
+            "Ingeniero civil",
+            2,
+            0,
+            2
+        ],
+        [
+            "Enfermera profesional",
+            1,
+            0,
             1
         ],
         [
-            "Supervisor de supermercado",
+            "Coordinador administrativo",
+            1,
+            1,
+            2
+        ],
+        [
+            "Profesor de educaci贸n superior de humanidades ",
+            1,
+            0,
             1
         ],
         [
-            "Supervisor de vigilancia",
+            "Administrador de empresas",
+            1,
+            1,
+            2
+        ],
+        [
+            "Auxiliar de dise帽o gr谩fico",
+            1,
+            0,
             1
         ],
         [
-            "Reparador de aparatos electr髇icos",
+            "Bacteri贸logo",
+            1,
+            1,
+            2
+        ],
+        [
+            "Enfermero profesional ",
+            1,
+            2,
+            3
+        ],
+        [
+            "Mec谩nico automotriz",
+            2,
+            0,
+            2
+        ],
+        [
+            "Encuestador ",
+            1,
+            0,
             1
         ],
         [
-            "Mec醤ico",
+            "Telemercaderista ",
+            1,
+            0,
             1
         ],
         [
-            "Analista psicol骻ico",
+            "Promotor de ventas",
+            1,
+            0,
             1
         ],
         [
-            "Supernumerario",
+            "Reparadores y operarios de mantenimiento ",
+            1,
+            0,
             1
         ],
         [
-            "Impresor de textiles",
+            "Operador de equipo   ",
+            1,
+            0,
             1
         ],
         [
-            "Planchador de textiles ",
+            "Operario agricola",
+            2,
+            0,
+            2
+        ],
+        [
+            "Encargado de inventario",
+            1,
+            1,
+            2
+        ],
+        [
+            "Supervisor de construcci贸n obras civiles",
+            1,
+            0,
             1
         ],
         [
-            "Recreador",
+            "Ornamentador",
+            1,
+            0,
             1
         ],
         [
-            "Auxiliar de funeraria",
+            "Empleado de granja en general",
+            2,
+            0,
+            2
+        ],
+        [
+            "Clasificador de aves de beneficiadero",
+            1,
+            0,
             1
         ],
         [
-            "Costurero",
+            "Mec谩nico automotor",
+            1,
+            0,
             1
         ],
         [
-            "Solador",
+            "Jardinero de parques",
+            1,
+            1,
+            2
+        ],
+        [
+            "Operador de m谩quina plana",
+            1,
+            4,
+            5
+        ],
+        [
+            "Asesor de ventas puerta a puerta",
+            1,
+            1,
+            2
+        ],
+        [
+            "Recepcionista",
+            2,
+            0,
+            2
+        ],
+        [
+            "Mec谩nico de autom贸viles",
+            1,
+            0,
             1
         ],
         [
-            "Auxiliar de planta",
+            "Agente de publicidad",
+            1,
+            1,
+            2
+        ],
+        [
+            "Mercaderista",
+            1,
+            1,
+            2
+        ],
+        [
+            "T茅cnicos electromec谩nicos",
+            1,
+            0,
             1
         ],
         [
-            "Sastre de confecci髇",
+            "Impulsador de ventas",
+            1,
+            1,
+            2
+        ],
+        [
+            "Soporte t茅cnico en sistemas",
+            1,
+            3,
+            4
+        ],
+        [
+            "Guardia de seguridad",
+            1,
+            4,
+            5
+        ],
+        [
+            "Chef de cocina",
+            1,
+            2,
+            3
+        ],
+        [
+            "Coordinador de call center",
+            1,
+            0,
             1
         ],
         [
-            "Decorador ",
+            "Auxiliar operativo",
+            1,
+            1,
+            2
+        ],
+        [
+            "Supervisor de servicio al cliente",
+            1,
+            0,
             1
         ],
         [
-            "Supervisor de taller  ",
+            "Auxiliar de inventario",
+            1,
+            1,
+            2
+        ],
+        [
+            "Armador  ",
+            1,
+            1,
+            2
+        ],
+        [
+            "Inspector de seguridad industrial",
+            1,
+            0,
             1
         ],
         [
-            "Ayudante de construcci髇",
+            "Auxiliar de calidad",
+            1,
+            1,
+            2
+        ],
+        [
+            "Fabricante de calzado",
+            1,
+            1,
+            2
+        ],
+        [
+            "Director de gesti贸n humana",
+            1,
+            0,
             1
         ],
         [
-            "Representante comercial",
+            "Auxiliar de descargue",
+            1,
+            1,
+            2
+        ],
+        [
+            "Auditor contable",
+            1,
+            0,
             1
         ],
         [
-            "Auxiliar de recaudos",
+            "Asistente de n贸mina",
+            1,
+            0,
             1
         ],
         [
-            "Ingeniero de sistemas",
+            "Opt贸metra",
+            1,
+            0,
             1
         ],
         [
-            "Barista",
+            "Auxiliar de Archivo y Registro",
+            1,
+            0,
             1
         ],
         [
-            "Auxiliar de operaciones",
+            "Supervisor",
+            1,
+            2,
+            3
+        ],
+        [
+            "Operario log铆stico",
+            1,
+            1,
+            2
+        ],
+        [
+            "Auxiliar de farmacia",
+            1,
+            2,
+            3
+        ],
+        [
+            "Auxiliar de n贸mina y prestaciones",
+            1,
+            0,
             1
         ],
         [
-            "Agente comercial de ventas",
+            "Jefe de contabilidad",
+            1,
+            0,
             1
         ],
         [
-            "Ingeniero de metalurgia",
+            "Conductor de cami贸n de basura",
+            1,
+            0,
             1
         ],
         [
-            "Administrador punto de venta",
-            1
-        ],
-        [
-            "T閏nico de salud ocupacional",
-            1
-        ],
-        [
-            "Patronista de productos textiles",
-            1
-        ],
-        [
-            "Ensamblador de productos textiles",
-            1
-        ],
-        [
-            "Analista administrativo",
-            1
-        ],
-        [
-            "Carpintero",
-            1
-        ],
-        [
-            "Auxiliar HSE - Sector Hidrocarburos",
-            1
-        ],
-        [
-            "Auxiliar de almac閚",
-            1
-        ],
-        [
-            "Supervisor de oficina",
-            1
-        ],
-        [
-            "Oficial de construcci髇",
+            "Obrero de construcci贸n",
+            1,
+            0,
             1
         ],
         [
             "Coordinador de calidad",
-            1
-        ],
-        [
-            "Obrero de construcci髇",
-            1
-        ],
-        [
-            "Conductor de cami髇 de basura",
+            1,
+            0,
             1
         ],
         [
             "Ayudante de aseo",
-            1
-        ],
-        [
-            "Nutricionista",
-            1
-        ],
-        [
-            "Director de recursos humanos",
-            1
-        ],
-        [
-            "Opt髆etra",
-            1
-        ],
-        [
-            "Asistente de n髆ina",
-            1
-        ],
-        [
-            "Auditor contable",
-            1
-        ],
-        [
-            "Director de gesti髇 humana",
-            1
-        ],
-        [
-            "Aseador de fachadas ",
-            1
-        ],
-        [
-            "Inspector de seguridad industrial",
-            1
-        ],
-        [
-            "T閏nicos electromec醤icos",
-            1
-        ],
-        [
-            "Ayudante de jardiner韆",
-            1
-        ],
-        [
-            "Electricista",
+            1,
+            0,
             1
         ],
         [
             "Pintor",
+            1,
+            0,
             1
         ],
         [
             "Operador de montacargas ",
+            1,
+            0,
+            1
+        ],
+        [
+            "Panadero",
+            1,
+            2,
+            3
+        ],
+        [
+            "Mensajero",
+            1,
+            0,
+            1
+        ],
+        [
+            "Botones",
+            0,
+            2,
+            2
+        ],
+        [
+            "Operador asistente de c谩mara",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ajustador de maquinaria textil",
+            0,
+            1,
+            1
+        ],
+        [
+            "Panadero pastelero",
+            0,
+            3,
+            3
+        ],
+        [
+            "Operario de empaque",
+            0,
+            1,
+            1
+        ],
+        [
+            "Jefe de producci贸n",
+            0,
+            4,
+            4
+        ],
+        [
+            "Ingeniero el茅ctrico",
+            0,
+            2,
+            2
+        ],
+        [
+            "Administrador de ventas y servicios",
+            0,
+            3,
+            3
+        ],
+        [
+            "Analista de compras",
+            0,
+            2,
+            2
+        ],
+        [
+            "Supervisor de oficina",
+            0,
+            1,
+            1
+        ],
+        [
+            "Electricista",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ayudante de jardiner铆a",
+            0,
+            1,
+            1
+        ],
+        [
+            "Cajero",
+            0,
+            6,
+            6
+        ],
+        [
+            "Aseador de fachadas ",
+            0,
+            1,
+            1
+        ],
+        [
+            "Director de recursos humanos",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ayudante Electricista",
+            0,
+            2,
+            2
+        ],
+        [
+            "Nutricionista",
+            0,
+            1,
             1
         ],
         [
             "Aseador",
-            1
-        ],
-        [
-            "Director de log韘tica",
-            1
-        ],
-        [
-            "Ayudante",
-            1
-        ],
-        [
-            "Cocinero",
-            1
-        ],
-        [
-            "Supervisor de producci髇  ",
-            1
-        ],
-        [
-            "Consultor de tecnolog韆 de la informaci髇 y de sistema de gesti髇 ",
-            1
-        ],
-        [
-            "Recepcionista de consultorio m閐ico",
-            1
-        ],
-        [
-            "T閏nico de Sistemas",
-            1
-        ],
-        [
-            "Camarero",
+            0,
+            1,
             1
         ],
         [
             "Almacenista de obra",
+            0,
+            1,
             1
         ],
         [
-            "Fot骻rafo",
-            1
+            "Cuidador de personas mayores",
+            0,
+            2,
+            2
         ],
         [
-            "Analista de comercio internacional",
+            "Orientador",
+            0,
+            1,
             1
         ],
         [
             "Supervisor de ventas",
+            0,
+            1,
             1
         ],
         [
             "Vendedor a domicilio",
+            0,
+            1,
             1
         ],
         [
-            "Orientador",
+            "Analista de comercio internacional",
+            0,
+            1,
             1
         ],
         [
-            "Mensajero",
+            "Director de log铆stica",
+            0,
+            1,
             1
         ],
         [
-            "Auditor de calidad",
+            "Auxiliar de bodega",
+            0,
+            7,
+            7
+        ],
+        [
+            "Camarero",
+            0,
+            1,
+            1
+        ],
+        [
+            "Fot贸grafo",
+            0,
+            1,
+            1
+        ],
+        [
+            "Conductor de cami贸n cisterna",
+            0,
+            1,
+            1
+        ],
+        [
+            "Consultor de tecnolog铆a de la informaci贸n y de sistema de gesti贸n ",
+            0,
+            1,
+            1
+        ],
+        [
+            "Supervisor de producci贸n  ",
+            0,
+            1,
+            1
+        ],
+        [
+            "Auxiliar de facturaci贸n",
+            0,
+            2,
+            2
+        ],
+        [
+            "T茅cnico de Sistemas",
+            0,
+            1,
+            1
+        ],
+        [
+            "Cocinero",
+            0,
+            1,
+            1
+        ],
+        [
+            "Analista de cr茅dito",
+            0,
+            2,
+            2
+        ],
+        [
+            "Ayudante",
+            0,
+            1,
+            1
+        ],
+        [
+            "Oficial de construcci贸n",
+            0,
+            1,
+            1
+        ],
+        [
+            "Auxiliar de almac茅n",
+            0,
+            1,
+            1
+        ],
+        [
+            "Agente de compras",
+            0,
+            2,
+            2
+        ],
+        [
+            "Administrador de negocios",
+            0,
+            1,
+            1
+        ],
+        [
+            "Costurero",
+            0,
+            1,
+            1
+        ],
+        [
+            "Solador",
+            0,
+            1,
+            1
+        ],
+        [
+            "Auxiliar HSE - Sector Hidrocarburos",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ingeniero mec谩nico",
+            0,
+            2,
+            2
+        ],
+        [
+            "Impresor de textiles",
+            0,
+            1,
+            1
+        ],
+        [
+            "Planchador de textiles ",
+            0,
+            1,
+            1
+        ],
+        [
+            "Auxiliar de funeraria",
+            0,
+            1,
+            1
+        ],
+        [
+            "Recreador",
+            0,
+            1,
+            1
+        ],
+        [
+            "Supernumerario",
+            0,
+            1,
+            1
+        ],
+        [
+            "Analista psicol贸gico",
+            0,
+            1,
+            1
+        ],
+        [
+            "Reparador de aparatos electr贸nicos",
+            0,
+            1,
+            1
+        ],
+        [
+            "Supervisor de vigilancia",
+            0,
+            1,
+            1
+        ],
+        [
+            "Empleado de parqueadero",
+            0,
+            2,
+            2
+        ],
+        [
+            "Anfitri贸n de restaurante",
+            0,
+            1,
+            1
+        ],
+        [
+            "Supervisor de supermercado",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ensamblador de m谩quinas de coser",
+            0,
+            1,
+            1
+        ],
+        [
+            "Instalador de redes telecomunicaciones",
+            0,
+            1,
+            1
+        ],
+        [
+            "Reparador de equipo de telecomunicaciones",
+            0,
+            2,
+            2
+        ],
+        [
+            "Auxiliar de planta",
+            0,
+            1,
+            1
+        ],
+        [
+            "Sastre de confecci贸n",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ingeniero de metalurgia",
+            0,
+            1,
+            1
+        ],
+        [
+            "Decorador ",
+            0,
+            1,
+            1
+        ],
+        [
+            "Analista administrativo",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ensamblador de productos textiles",
+            0,
+            1,
+            1
+        ],
+        [
+            "Patronista de productos textiles",
+            0,
+            1,
+            1
+        ],
+        [
+            "T茅cnico de salud ocupacional",
+            0,
+            1,
+            1
+        ],
+        [
+            "Administrador punto de venta",
+            0,
+            1,
+            1
+        ],
+        [
+            "Agente comercial de ventas",
+            0,
+            1,
+            1
+        ],
+        [
+            "Supervisor de taller  ",
+            0,
+            1,
+            1
+        ],
+        [
+            "Auxiliar de operaciones",
+            0,
+            1,
+            1
+        ],
+        [
+            "Auxiliar de recaudos",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ingeniero de sistemas",
+            0,
+            1,
+            1
+        ],
+        [
+            "Barista",
+            0,
+            1,
+            1
+        ],
+        [
+            "Representante comercial",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ayudante de construcci贸n",
+            0,
+            1,
+            1
+        ],
+        [
+            "Ayudante y Obrero de Construcci贸n",
+            0,
+            1,
+            1
+        ],
+        [
+            "Recepcionista de consultorio m茅dico",
+            0,
+            1,
+            1
+        ],
+        [
+            "Mec谩nico",
+            0,
+            1,
+            1
+        ],
+        [
+            "Carpintero",
+            0,
+            1,
             1
         ]
     ]

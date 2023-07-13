@@ -2,190 +2,284 @@
     [
         [
             "",
-            "Sector"
+            "2023",
+            "2022",
+            "Total"
         ],
         [
-            "Otras actividades de servicios personales",
-            262
-        ],
-        [
-            "Telecomunicaciones",
-            219
-        ],
-        [
-            "Actividades de atenci髇 de la salud humana",
-            99
-        ],
-        [
-            "Actividades de empleo",
-            67
-        ],
-        [
-            "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas",
-            47
+            "Fabricaci贸n de sustancias y productos qu铆micos",
+            1,
+            3,
+            4
         ],
         [
             "No Registra",
+            10,
+            20,
             30
         ],
         [
-            "Actividades de seguridad e investigaci髇 privada",
-            27
-        ],
-        [
-            "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de veh韈ulos automotores y motocicletas",
-            27
-        ],
-        [
-            "Fabricaci髇 de productos textiles",
-            21
-        ],
-        [
-            "Comercio al por mayor y en comisi髇 o por contrata, excepto el comercio de veh韈ulos automotores y motocicletas",
-            19
-        ],
-        [
             "Actividades de servicios de comidas y bebidas",
+            3,
+            14,
             17
         ],
         [
-            "Actividades especializadas para la construcci髇 de edificios y obras de ingenier韆 civil",
-            15
-        ],
-        [
-            "Obras de ingenier韆 civil",
-            11
-        ],
-        [
-            "Actividades inmobiliarias",
-            11
-        ],
-        [
-            "Actividades de asociaciones",
-            10
-        ],
-        [
-            "Transporte terrestre; transporte por tuber韆s",
-            5
-        ],
-        [
-            "Alojamiento",
-            5
-        ],
-        [
-            "Fabricaci髇 de sustancias y productos qu韒icos",
-            4
-        ],
-        [
-            "Administraci髇 p鷅lica y defensa; planes de seguridad social de afiliaci髇 obligatoria",
-            4
-        ],
-        [
-            "Confecci髇 de prendas de vestir",
-            4
-        ],
-        [
-            "Actividades auxiliares de las actividades de servicios financieros",
-            4
-        ],
-        [
-            "Elaboraci髇 de productos alimenticios",
-            4
-        ],
-        [
-            "Actividades de atenci髇 residencial medicalizada",
-            4
-        ],
-        [
-            "Comercio, mantenimiento y reparaci髇 de veh韈ulos automotores y motocicletas, sus partes, piezas y accesorios",
-            3
-        ],
-        [
-            "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)",
-            3
-        ],
-        [
-            "Educaci髇",
-            3
-        ],
-        [
-            "Fabricaci髇 de productos farmac閡ticos, sustancias qu韒icas medicinales y productos bot醤icos de uso farmac閡tico",
-            2
-        ],
-        [
-            "Transformaci髇 de la madera y fabricaci髇 de productos de madera y de corcho, excepto muebles; fabricaci髇 de art韈ulos de cester韆 y esparter韆",
-            2
-        ],
-        [
-            "Fabricaci髇 de productos elaborados de metal, excepto maquinaria y equipo",
-            2
-        ],
-        [
-            "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social",
-            2
-        ],
-        [
-            "Actividades de servicios de apoyo para la explotaci髇 de minas ",
-            2
-        ],
-        [
-            "Correo y servicios de mensajer韆",
+            "Fabricaci贸n de otros productos minerales no met谩licos",
+            1,
+            0,
             1
         ],
         [
-            "Fabricaci髇 de aparatos y equipo el閏trico",
+            "Otras actividades de servicios personales",
+            19,
+            243,
+            262
+        ],
+        [
+            "Comercio, mantenimiento y reparaci贸n de veh铆culos automotores y motocicletas, sus partes, piezas y accesorios",
+            1,
+            2,
+            3
+        ],
+        [
+            "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas",
+            9,
+            38,
+            47
+        ],
+        [
+            "Transformaci贸n de la madera y fabricaci贸n de productos de madera y de corcho, excepto muebles; fabricaci贸n de art铆culos de cester铆a y esparter铆a",
+            1,
+            1,
+            2
+        ],
+        [
+            "Fabricaci贸n de productos elaborados de metal, excepto maquinaria y equipo",
+            1,
+            1,
+            2
+        ],
+        [
+            "Obras de ingenier铆a civil",
+            3,
+            8,
+            11
+        ],
+        [
+            "Telecomunicaciones",
+            91,
+            128,
+            219
+        ],
+        [
+            "Actividades de atenci贸n de la salud humana",
+            4,
+            95,
+            99
+        ],
+        [
+            "Fabricaci贸n de productos farmac茅uticos, sustancias qu铆micas medicinales y productos bot谩nicos de uso farmac茅utico",
+            1,
+            1,
+            2
+        ],
+        [
+            "Administraci贸n p煤blica y defensa; planes de seguridad social de afiliaci贸n obligatoria",
+            1,
+            3,
+            4
+        ],
+        [
+            "Actividades de asistencia social sin alojamiento",
+            1,
+            0,
             1
+        ],
+        [
+            "Actividades de empleo",
+            12,
+            55,
+            67
+        ],
+        [
+            "Actividades de atenci贸n residencial medicalizada",
+            1,
+            3,
+            4
+        ],
+        [
+            "Actividades de seguridad e investigaci贸n privada",
+            2,
+            25,
+            27
+        ],
+        [
+            "Comercio al por mayor y en comisi贸n o por contrata, excepto el comercio de veh铆culos automotores y motocicletas",
+            3,
+            16,
+            19
+        ],
+        [
+            "Actividades de servicios de apoyo para la explotaci贸n de minas ",
+            1,
+            1,
+            2
+        ],
+        [
+            "Educaci贸n",
+            1,
+            2,
+            3
+        ],
+        [
+            "Elaboraci贸n de productos alimenticios",
+            1,
+            3,
+            4
+        ],
+        [
+            "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de veh铆culos automotores y motocicletas",
+            0,
+            27,
+            27
         ],
         [
             "Almacenamiento y actividades complementarias al transporte",
+            0,
+            1,
+            1
+        ],
+        [
+            "Actividades de asociaciones",
+            0,
+            10,
+            10
+        ],
+        [
+            "Actividades inmobiliarias",
+            0,
+            11,
+            11
+        ],
+        [
+            "Construcci贸n de edificios",
+            0,
+            1,
+            1
+        ],
+        [
+            "Correo y servicios de mensajer铆a",
+            0,
+            1,
             1
         ],
         [
             "Actividades de juegos de azar y apuestas",
+            0,
+            1,
             1
         ],
         [
-            "Actividades de asistencia social sin alojamiento",
+            "Actividades especializadas para la construcci贸n de edificios y obras de ingenier铆a civil",
+            0,
+            15,
+            15
+        ],
+        [
+            "Transporte terrestre; transporte por tuber铆as",
+            0,
+            5,
+            5
+        ],
+        [
+            "Fabricaci贸n de aparatos y equipo el茅ctrico",
+            0,
+            1,
             1
         ],
         [
-            "Construcci髇 de edificios",
+            "Confecci贸n de prendas de vestir",
+            0,
+            4,
+            4
+        ],
+        [
+            "Actividades jur铆dicas y de contabilidad",
+            0,
+            1,
             1
         ],
         [
-            "Fabricaci髇 de productos de caucho y de pl醩tico",
+            "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social",
+            0,
+            2,
+            2
+        ],
+        [
+            "Fabricaci贸n de productos textiles",
+            0,
+            21,
+            21
+        ],
+        [
+            "Instalaci贸n, mantenimiento y reparaci贸n especializado de maquinaria y equipo",
+            0,
+            1,
             1
         ],
         [
-            "Instalaci髇, mantenimiento y reparaci髇 especializado de maquinaria y equipo",
-            1
+            "Alojamiento",
+            0,
+            5,
+            5
         ],
         [
-            "Actividades jur韉icas y de contabilidad",
-            1
+            "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)",
+            0,
+            3,
+            3
         ],
         [
-            "Actividades de arquitectura e ingenier韆; ensayos y an醠isis t閏nicos",
+            "Actividades auxiliares de las actividades de servicios financieros",
+            0,
+            4,
+            4
+        ],
+        [
+            "Actividades de arquitectura e ingenier铆a; ensayos y an谩lisis t茅cnicos",
+            0,
+            1,
             1
         ],
         [
             "Suministro de electricidad, gas, vapor y aire acondicionado ",
+            0,
+            1,
             1
         ],
         [
             "Actividades de alquiler y arrendamiento",
+            0,
+            1,
             1
         ],
         [
-            "Fabricaci髇 de muebles, colchones y somieres",
+            "Fabricaci贸n de productos de caucho y de pl谩stico",
+            0,
+            1,
             1
         ],
         [
-            "Mantenimiento y reparaci髇 de computadores, efectos personales y enseres dom閟ticos",
+            "Fabricaci贸n de muebles, colchones y somieres",
+            0,
+            1,
             1
         ],
         [
-            "Fabricaci髇 de otros productos minerales no met醠icos",
+            "Mantenimiento y reparaci贸n de computadores, efectos personales y enseres dom茅sticos",
+            0,
+            1,
             1
         ]
     ]

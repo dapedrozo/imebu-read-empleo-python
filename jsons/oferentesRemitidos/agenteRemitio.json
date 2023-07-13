@@ -2,39 +2,57 @@
     [
         [
             "",
-            "Agente que Remitio"
+            "2022",
+            "2023",
+            "Total"
         ],
         [
-            "LIDA SIRLEY  DUARTE VASQUEZ",
-            2191
-        ],
-        [
-            "LAURA PATRICIA CHAPARRO PEÑA",
+            "LAURA PATRICIA CHAPARRO PEÃ‘A",
+            991,
+            901,
             1892
         ],
         [
-            "FABIOLA BETANCUR",
-            1656
-        ],
-        [
             "KAREN NATALIA BAUTISTA LOPEZ",
+            1035,
+            487,
             1522
         ],
         [
-            "MANUEL FELIPE PEREZ",
-            98
+            "LIDA SIRLEY  DUARTE VASQUEZ",
+            1487,
+            704,
+            2191
         ],
         [
-            "JORGE PINTO SUAREZ",
-            66
-        ],
-        [
-            "MARLY VELANDIA VELANDIA",
-            8
+            "FABIOLA BETANCUR",
+            1066,
+            590,
+            1656
         ],
         [
             "JOSE MARIO ORTIZ CUESTA",
+            4,
+            0,
             4
+        ],
+        [
+            "JORGE PINTO SUAREZ",
+            40,
+            26,
+            66
+        ],
+        [
+            "MANUEL FELIPE PEREZ",
+            95,
+            3,
+            98
+        ],
+        [
+            "MARLY VELANDIA VELANDIA",
+            1,
+            7,
+            8
         ]
     ]
 ]

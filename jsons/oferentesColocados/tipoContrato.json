@@ -2,34 +2,50 @@
     [
         [
             "",
-            "Tipo de Contrato"
+            "2023",
+            "2022",
+            "Total"
         ],
         [
-            "Término Fijo",
+            "TÃ©rmino Fijo",
+            120,
+            346,
             466
         ],
         [
-            "Otro",
-            181
+            "TÃ©rmino Indefinido",
+            12,
+            31,
+            43
         ],
         [
             "Obra",
+            24,
+            144,
             168
         ],
         [
             "Prest. de Servicios",
+            11,
+            72,
             83
         ],
         [
-            "Término Indefinido",
-            43
+            "Otro",
+            1,
+            180,
+            181
         ],
         [
             "Temporal",
+            0,
+            8,
             8
         ],
         [
             "Aprendizaje",
+            0,
+            1,
             1
         ]
     ]

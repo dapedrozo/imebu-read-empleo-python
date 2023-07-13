@@ -2,27 +2,45 @@
     [
         [
             "",
-            "Ciudad"
+            "2023",
+            "2022",
+            "2020",
+            "Total"
         ],
         [
             "BUCARAMANGA",
+            26,
+            79,
+            1,
             106
         ],
         [
             "FLORIDABLANCA",
+            2,
+            11,
+            0,
             13
         ],
         [
-            "GIRÓN",
+            "GIRÃ“N",
+            0,
+            4,
+            0,
             4
         ],
         [
-            "No pertenece al área metropolitana",
-            3
+            "PIEDECUESTA",
+            0,
+            2,
+            0,
+            2
         ],
         [
-            "PIEDECUESTA",
-            2
+            "No pertenece al Ã¡rea metropolitana",
+            0,
+            3,
+            0,
+            3
         ]
     ]
 ]

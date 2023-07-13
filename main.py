@@ -264,6 +264,67 @@ def vacantesPublicadasmanoObraCalificada():
         json_string = file.read()
     return Response(json_string,content_type="application/json; charset=utf-8" )
 
+#banca
+@app.route('/difit/actividad', methods=['GET'])
+def DifitActividad():
+    with open("jsons/banca/difit_ACTIVIDAD.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/barrio', methods=['GET'])
+def DifitBarrio():
+    with open("jsons/banca/difit_BARRIO.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/comuna', methods=['GET'])
+def DifitComuna():
+    with open("jsons/banca/difit_COMUNA.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/escolaridad', methods=['GET'])
+def DifitEscolaridad():
+    with open("jsons/banca/difit_ESCOLARIDAD.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/estrato', methods=['GET'])
+def DifitEstrato():
+    with open("jsons/banca/difit_ESTRATO.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/formalidad', methods=['GET'])
+def DifitFormalidad():
+    with open("jsons/banca/difit_FORMALIDAD.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/poblacion-vulnerable', methods=['GET'])
+def DifitPoblacionVulnerable():
+    with open("jsons/banca/difit_POBLACIÓN VULNERABLE.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/rango-edad', methods=['GET'])
+def DifitRangoEdad():
+    with open("jsons/banca/difit_RANGO DE EDAD.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/sector', methods=['GET'])
+def DifitSector():
+    with open("jsons/banca/difit_SECTOR.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
+@app.route('/difit/sexo', methods=['GET'])
+def DifitSexo():
+    with open("jsons/banca/difit_SEXO.json","r") as file:
+        json_string = file.read()
+    return Response(json_string,content_type="application/json; charset=utf-8" )
+
 if __name__ == '__main__':
     app.run()
 

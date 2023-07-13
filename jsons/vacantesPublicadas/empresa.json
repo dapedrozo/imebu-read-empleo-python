@@ -2,791 +2,1185 @@
     [
         [
             "",
-            "Empresa"
-        ],
-        [
-            "CENTRO DE DIAGNOSTICO CIRUGÕA OCULAR",
-            25
-        ],
-        [
-            "EFICACIA S.A.",
-            18
-        ],
-        [
-            "OCUPAR TEMPORALES S.A.",
-            18
-        ],
-        [
-            "FEXVAD S.A.S.",
-            17
-        ],
-        [
-            "PROPULSA SAS",
-            17
-        ],
-        [
-            "SUPERMERCADOS MAS X MENOS S.A",
-            14
-        ],
-        [
-            "S & E INGENIERÕA S. A. S.",
-            12
-        ],
-        [
-            "MERKAHORRO",
-            11
-        ],
-        [
-            "HIGUERA ESCALANTE Y CÕA LTDA",
-            10
-        ],
-        [
-            "PRECOCIDOS DEL ORIENTE S.A",
-            9
-        ],
-        [
-            "AMERICANA DE SERVICIOS LTDA",
-            8
-        ],
-        [
-            "PROJECTION LIFE",
-            8
-        ],
-        [
-            "DEPORTIVOS MOTAS SPORT SAS",
-            8
-        ],
-        [
-            "ALEA HERRAJES SAS",
-            8
-        ],
-        [
-            "SOLUCI”N GESTI”N HUMANA SAS",
-            8
-        ],
-        [
-            "PHD SERVICIOS SAS",
-            8
-        ],
-        [
-            "TECNOGAS LTDA INGENIERIA Y SERVICIO",
-            8
-        ],
-        [
-            "SEGURIDAD Y VIGILANCIA COLOMBIANA SEVICOL LTDA.",
-            7
-        ],
-        [
-            "COOPERATIVA DE ESTUDIANTES Y EGRESADOS UNIVERSITARIOS",
-            7
-        ],
-        [
-            "MEDICINA Y TERAPIAS DOMICILIARIAS SAS",
-            7
-        ],
-        [
-            "CENTRO ESTERELIZACI”N Y CURACIONES CEKURA LTDA",
-            7
-        ],
-        [
-            "PRODUCTOS VICKY SAS",
-            7
+            "2023",
+            "2022",
+            "Total"
         ],
         [
             "SAFRENOS RANGEL SAS",
+            5,
+            2,
             7
         ],
         [
-            "MULTILABOR SERVICIOS E INSUMOS LTDA",
-            6
-        ],
-        [
-            "INDUSTRIAS METALEX SAS",
-            6
-        ],
-        [
-            "PLATA ARGUELLO Y COMPA—IA",
-            6
-        ],
-        [
-            "FUNDACI”N OFTALMOL”GICA DE SANTANDER -FOSCAL.",
-            6
-        ],
-        [
-            "OPTECOM S.A.S",
-            6
-        ],
-        [
-            "COMPA—ÕA DE SERVICIOS TECNICOS INTEGRALES SAS",
-            6
-        ],
-        [
-            "GARCÕA VEGA S.A.S.",
-            6
-        ],
-        [
-            "IMEBU - INSTITUTO MUNICIPAL DE EMPLEO Y FOMENTO EMPRESARIAL DE BUCARAMANGA",
-            6
-        ],
-        [
-            "INDUSTRIAS ALIMENTICIAS BAES S.A.S",
-            6
-        ],
-        [
-            "CAMPUS LAND S.A.S. BIC",
-            6
-        ],
-        [
-            "TEAM WORKING SAS",
-            6
-        ],
-        [
-            "SOLVO GLOBAL SAS",
-            6
-        ],
-        [
-            "STF GROUP SA",
-            5
-        ],
-        [
-            "TUAVAL SAS",
-            5
-        ],
-        [
-            "FORTOX S.A",
-            5
-        ],
-        [
-            "Avidesa Mac Pollo",
-            5
-        ],
-        [
-            "SEGURIDAD ACROPOLIS LTDA .",
-            5
-        ],
-        [
-            "INDUSTRIAS TANUZI SA",
-            5
-        ],
-        [
-            "SURTIAREPAS BUCARAMANGA",
-            5
-        ],
-        [
-            "LOGISTICA INTEGRAL SINERGIA SAS",
-            5
-        ],
-        [
-            "CALZADO XTREMO SAS",
-            5
-        ],
-        [
-            "SUMMAR TEMPORALES SAS",
-            5
-        ],
-        [
-            "YAMAHA MOTOS",
-            5
-        ],
-        [
-            "COOPERATIVA SANTANDEREANA DE TRANSPORTES",
-            5
-        ],
-        [
-            "ANDES GROUP SAS",
-            4
-        ],
-        [
-            "GRUPO HISESA",
-            4
-        ],
-        [
-            "LUIS EDUARDO CHINCHILLA  CASALINS",
-            4
-        ],
-        [
-            "SUESCUN COMPANY SAS",
-            4
-        ],
-        [
-            "TEMPORAL ACTIVA S.A.S.",
-            4
-        ],
-        [
-            "DISLENS SAS",
-            4
-        ],
-        [
-            "COLORWORKING SAS",
-            4
-        ],
-        [
-            "FUNDACI”N DE LA MUJER COLOMBIA SAS",
-            4
-        ],
-        [
-            "JYM SOLUCIONES SEGURAS S.A.S",
-            4
-        ],
-        [
-            "SUMMAR PROCESOS SAS",
-            4
-        ],
-        [
-            "GRUPO EXITO S.A",
-            4
-        ],
-        [
-            "ENTERALTIVA GROUP S.A.S",
-            3
-        ],
-        [
-            "LISTOS PARA SERVIR SAS",
-            3
-        ],
-        [
-            "ENLACE EMPRESARIAL DE SERVICIOS SA",
-            3
-        ],
-        [
-            "APUNTO SAS",
-            3
-        ],
-        [
-            "ORGANIZACION LA ESPERANZA S.A.",
-            3
-        ],
-        [
-            "PRODUCTOS OFACOL SAS",
-            3
-        ],
-        [
-            "DELTHAC1 SEGURIDAD",
-            3
-        ],
-        [
-            "ORGANIZACION SERVICIOS Y ASESORIAS",
-            3
-        ],
-        [
-            "SERVICLINICOS DROMEDICA S. A.",
-            3
-        ],
-        [
-            "VIDRIALUM SH",
-            3
-        ],
-        [
-            "TODO ASEO S.A.S.",
-            3
-        ],
-        [
-            "MAJA FASHION",
-            3
-        ],
-        [
-            "CALT SEGURIDAD LTDA",
-            3
-        ],
-        [
-            "MI CARGA TRANSPORTES SAS",
-            3
-        ],
-        [
-            "MUEBLES ESTUPI—AN S.A.S.",
-            3
-        ],
-        [
-            "COPOWER LTDA.",
-            3
-        ],
-        [
-            "BAGUER S.A.S. - CAFAM",
-            3
-        ],
-        [
-            "PETROCASINOS S.A",
-            3
-        ],
-        [
-            "SUSESO SAS",
-            3
-        ],
-        [
-            "CREPES Y WAFLES S.A",
-            3
-        ],
-        [
-            "KATHERINE PAOLA CONTRERAS SANTOS",
-            3
-        ],
-        [
-            "DANIEL PALACIO -TECNIRACER BGA",
-            3
-        ],
-        [
-            "COMPA—ÕA PESQUERA DEL MAR S.A.S.",
-            3
-        ],
-        [
-            "Teleperformance",
-            2
-        ],
-        [
-            "DOGGER EXITO BUCARAMANGA",
-            2
-        ],
-        [
-            "PROVINAS S.A.S.",
-            2
-        ],
-        [
-            "COWORKING GROUP SANCASTELL S.A.S",
-            2
-        ],
-        [
-            "AVICOLA SINAIN SAS",
-            2
-        ],
-        [
-            "DISTRIBUIDORA AVICOLA S.A.S.",
-            2
-        ],
-        [
-            "GREEN AND WHITE SAS",
-            2
-        ],
-        [
-            "LUISA INES SERRANO OTERO",
-            2
-        ],
-        [
-            "SERVICOOPRESER",
-            2
-        ],
-        [
-            "INCUBADORA SANTANDER S.A. ALAT S.A.",
-            2
-        ],
-        [
-            "CELESTIAL FLORAL CAF… SAS",
-            2
-        ],
-        [
-            "SALUD HOGAR DEL ORIENTE SAS",
-            2
-        ],
-        [
-            "SR. RANA SHOES S.A.S.",
-            2
-        ],
-        [
-            "SERVICIOS DE ALIMENTACION LA VIANDA S.A.",
-            2
-        ],
-        [
-            "QS1 SAS",
-            2
-        ],
-        [
-            "SEI SERVICIOS ESPECIALIZADOS INFORMATICOS",
-            2
-        ],
-        [
             "PRODECA S.A",
+            2,
+            0,
             2
         ],
         [
-            "TEXTAMPA SAS",
-            2
-        ],
-        [
-            "AGMEN GESTI”N LOGÕSTICA INTEGRAL SAS-CAJASAN",
-            2
-        ],
-        [
-            "TECNICAL SECURITY SAS",
-            2
-        ],
-        [
-            "SEGURIDAD GUANENTA LTDA",
-            2
-        ],
-        [
-            "LLANTAS BULLDOG S.A.S",
-            2
-        ],
-        [
-            "GLORIA ESPERANZA ROJAS - INGENIERÕA Y SEGURIDAD INDUSTRIAL DE COLOMBIA",
-            2
-        ],
-        [
-            "ARDISA SA",
-            2
-        ],
-        [
-            "EURONEL S.A.S.",
-            2
+            "GRUPO CELULAR MOVIL GCM SAS",
+            1,
+            0,
+            1
         ],
         [
             "INDUSTRIAS ALIMENTICIAS ORNELO S.A.S.",
+            1,
+            1,
             2
         ],
         [
-            "JUAN SEBASTIAN SARMIENTO",
-            2
+            "GRUPO HISESA",
+            1,
+            3,
+            4
         ],
         [
-            "MIS BORDADOS LTDA",
-            2
-        ],
-        [
-            "DOTAHERLOGO SA",
-            2
-        ],
-        [
-            "AG2 COMUNICACIONES SAS",
-            2
-        ],
-        [
-            "INVERSIONES ZULUAGA RUEDA SAS",
-            2
-        ],
-        [
-            "ARINTIA GROUP SAS",
-            2
-        ],
-        [
-            "ANA MARIA BUENO GARCIA",
-            2
-        ],
-        [
-            "CASA DE MODAS SAMA S.A.S",
-            2
-        ],
-        [
-            "MAXIVENTAS DISTRIBUCIONES BGA SAS",
-            2
-        ],
-        [
-            "BANCO MUNDO MUJER",
-            2
-        ],
-        [
-            "GENTE UTIL S.A",
-            2
-        ],
-        [
-            "BUENAVISTA EXPRESS SAS",
-            2
-        ],
-        [
-            "FASHION BRANDS GROUP SAS",
-            2
-        ],
-        [
-            "CONSTRUCTORA VSMJ SAS",
-            2
-        ],
-        [
-            "AS CREAR SERVICIOS SAS",
-            2
-        ],
-        [
-            "RESTAURANTE LA CASONA LTDA",
-            2
-        ],
-        [
-            "CONSORCIO ESPACIO P⁄BLICO 2021",
-            2
-        ],
-        [
-            "INVERSIONES METROLLANTAS SAS",
-            2
-        ],
-        [
-            "PROYECCION LABORAL S.A.S",
+            "CENTRO DE ALTA TECNOLOG√çA MEDICA SAS -CATME SAS",
+            1,
+            0,
             1
+        ],
+        [
+            "S & E INGENIER√çA S. A. S.",
+            3,
+            9,
+            12
+        ],
+        [
+            "TUAVAL SAS",
+            3,
+            2,
+            5
+        ],
+        [
+            "DOGGER EXITO BUCARAMANGA",
+            2,
+            0,
+            2
         ],
         [
             "PRISSAT SAS",
-            1
-        ],
-        [
-            "RYCTEL LTDA",
-            1
-        ],
-        [
-            "MARVAL S.A.",
-            1
-        ],
-        [
-            "CONSULTORÕAS DE SELECCI”N.LINA MARITZA GONZALEZ OLAYA",
+            1,
+            0,
             1
         ],
         [
             "GRUPO EMPRESARIAL CAMACHOS SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "VIDRIALUM SH",
+            3,
+            0,
+            3
+        ],
+        [
+            "INGENIA SOLUCIONES SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "PROVINAS S.A.S.",
+            2,
+            0,
+            2
+        ],
+        [
+            "AMERICANA DE SERVICIOS LTDA",
+            7,
+            1,
+            8
+        ],
+        [
+            "ALEA HERRAJES SAS",
+            7,
+            1,
+            8
+        ],
+        [
+            "KM CALZADO Y ACCESORIOS",
+            1,
+            0,
+            1
+        ],
+        [
+            "TODO ASEO S.A.S.",
+            3,
+            0,
+            3
+        ],
+        [
+            "EFICACIA S.A.",
+            14,
+            4,
+            18
+        ],
+        [
+            "CREPES Y WAFLES S.A",
+            2,
+            1,
+            3
+        ],
+        [
+            "COWORKING GROUP SANCASTELL S.A.S",
+            2,
+            0,
+            2
+        ],
+        [
+            "CONSULTOR√çAS DE SELECCI√ìN.LINA MARITZA GONZALEZ OLAYA",
+            1,
+            0,
+            1
+        ],
+        [
+            "SEGURIDAD Y VIGILANCIA COLOMBIANA SEVICOL LTDA.",
+            5,
+            2,
+            7
+        ],
+        [
+            "SOLUCI√ìN GESTI√ìN HUMANA SAS",
+            6,
+            2,
+            8
+        ],
+        [
+            "PARQUEARSE SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "SUPERMERCADOS MAS X MENOS S.A",
+            14,
+            0,
+            14
+        ],
+        [
+            "SURTIAREPAS BUCARAMANGA",
+            3,
+            2,
+            5
+        ],
+        [
+            "MUEBLES ESTUPI√ëAN S.A.S.",
+            1,
+            2,
+            3
+        ],
+        [
+            "CENTRO ESPECIALIZADO EN MANTENIMIENTO, MEDICIONES E INGENIER√çA S.A.S.",
+            1,
+            0,
+            1
+        ],
+        [
+            "ROB√ìTICA,TECNOLOG√çA & EDUCACI√ìN SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "HIGUERA ESCALANTE Y C√çA LTDA",
+            4,
+            6,
+            10
+        ],
+        [
+            "LOGISTICA DE DISTRIBUCION SANCHEZ POLO",
+            1,
+            0,
+            1
+        ],
+        [
+            "CENTRO DE DIAGNOSTICO CIRUG√çA OCULAR",
+            17,
+            8,
+            25
+        ],
+        [
+            "GARC√çA VEGA S.A.S.",
+            6,
+            0,
+            6
+        ],
+        [
+            "ANDES GROUP SAS",
+            4,
+            0,
+            4
+        ],
+        [
+            "SANDRA SERRANO GONZ√ÅLEZ",
+            1,
+            0,
+            1
+        ],
+        [
+            "MAJA FASHION",
+            1,
+            2,
+            3
+        ],
+        [
+            "RESTAURANTE LA CASONA LTDA",
+            1,
+            1,
+            2
+        ],
+        [
+            "APLIKA CONTROL CORROSI√ìN S.A.S",
+            1,
+            0,
+            1
+        ],
+        [
+            "INDUSTRIAS METALEX SAS",
+            3,
+            3,
+            6
+        ],
+        [
+            "LA MUELA S.A.S",
+            1,
+            0,
+            1
+        ],
+        [
+            "TECNOGAS LTDA INGENIERIA Y SERVICIO",
+            3,
+            5,
+            8
+        ],
+        [
+            "PUYANA SERVIGAS SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "INDUSTRIAS TANUZI SA",
+            3,
+            2,
+            5
+        ],
+        [
+            "OCUPAR TEMPORALES S.A.",
+            8,
+            10,
+            18
+        ],
+        [
+            "RESTAURANTE LA CHACRA URUGUAYA S.A.S.",
+            1,
+            0,
+            1
+        ],
+        [
+            "COOPERATIVA ENERG√âTICA DE AHORRO Y CR√âDITO - FINECOOP",
+            1,
+            0,
             1
         ],
         [
             "METLIFE COLOMBIA SEGUROS DE VIDA S.A.",
+            1,
+            0,
             1
         ],
         [
-            "GRUPO CELULAR MOVIL GCM SAS",
+            "COOPERATIVA DE ESTUDIANTES Y EGRESADOS UNIVERSITARIOS",
+            4,
+            3,
+            7
+        ],
+        [
+            "DISTRIBUIDORA NACIONAL DE LITERATURA SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "CAMPUS LAND S.A.S. BIC",
+            6,
+            0,
+            6
+        ],
+        [
+            "KATHERINE PAOLA CONTRERAS SANTOS",
+            2,
+            1,
+            3
+        ],
+        [
+            "RYCTEL LTDA",
+            1,
+            0,
+            1
+        ],
+        [
+            "FUNDACI√ìN DE LA MUJER COLOMBIA SAS",
+            4,
+            0,
+            4
+        ],
+        [
+            "INVERSIONES METROLLANTAS SAS",
+            1,
+            1,
+            2
+        ],
+        [
+            "PROPULSA SAS",
+            11,
+            6,
+            17
+        ],
+        [
+            "PRECOCIDOS DEL ORIENTE S.A",
+            5,
+            4,
+            9
+        ],
+        [
+            "MEDICINA Y TERAPIAS DOMICILIARIAS SAS",
+            4,
+            3,
+            7
+        ],
+        [
+            "ORGANIZACION LA ESPERANZA S.A.",
+            1,
+            2,
+            3
+        ],
+        [
+            "SOLVO GLOBAL SAS",
+            6,
+            0,
+            6
+        ],
+        [
+            "PROYECCION LABORAL S.A.S",
+            1,
+            0,
             1
         ],
         [
             "UNISANTANDER SAS",
+            1,
+            0,
             1
         ],
         [
-            "BRILLADORA EL DIAMANTE S.A.S.",
-            1
+            "Teleperformance",
+            2,
+            0,
+            2
         ],
         [
             "EXPERTS COLOMBIA SAS",
+            1,
+            0,
             1
         ],
         [
             "SUNFLEX",
+            1,
+            0,
             1
+        ],
+        [
+            "AS CREAR SERVICIOS SAS",
+            1,
+            1,
+            2
+        ],
+        [
+            "CENTRO ESTERELIZACI√ìN Y CURACIONES CEKURA LTDA",
+            4,
+            3,
+            7
         ],
         [
             "METROCINCO PLUS S.A",
-            1
-        ],
-        [
-            "DISTRIBUIDORA NACIONAL DE LITERATURA SAS",
-            1
-        ],
-        [
-            "COOPERATIVA ENERG…TICA DE AHORRO Y CR…DITO - FINECOOP",
-            1
-        ],
-        [
-            "CENTRO DE ALTA TECNOLOGÕA MEDICA SAS -CATME SAS",
-            1
-        ],
-        [
-            "INGENIA SOLUCIONES SAS",
-            1
-        ],
-        [
-            "RESTAURANTE LA CHACRA URUGUAYA S.A.S.",
-            1
-        ],
-        [
-            "PUYANA SERVIGAS SAS",
-            1
-        ],
-        [
-            "SANDRA SERRANO GONZ¡LEZ",
-            1
-        ],
-        [
-            "APLIKA CONTROL CORROSI”N S.A.S",
-            1
-        ],
-        [
-            "LA MUELA S.A.S",
-            1
-        ],
-        [
-            "FIVE HOLDING SAS",
-            1
-        ],
-        [
-            "ACADEMIA DE ESTUDIOS TECNICOS EN SEGURIDAD LTDA",
-            1
-        ],
-        [
-            "LOGISTICA DE DISTRIBUCION SANCHEZ POLO",
-            1
-        ],
-        [
-            "KM CALZADO Y ACCESORIOS",
-            1
-        ],
-        [
-            "ROB”TICA,TECNOLOGÕA & EDUCACI”N SAS",
-            1
-        ],
-        [
-            "CENTRO ESPECIALIZADO EN MANTENIMIENTO, MEDICIONES E INGENIERÕA S.A.S.",
-            1
-        ],
-        [
-            "HARINAGRO S.A",
-            1
-        ],
-        [
-            "PARQUEARSE SAS",
+            1,
+            0,
             1
         ],
         [
             "LISETTE ROZO",
+            1,
+            0,
             1
         ],
         [
-            "TRANSPORTES LIQUIDOS DE COLOMBIA S.A",
+            "ACADEMIA DE ESTUDIOS TECNICOS EN SEGURIDAD LTDA",
+            1,
+            0,
             1
         ],
         [
-            "CONEXUSIT SAS",
-            1
+            "COPOWER LTDA.",
+            2,
+            1,
+            3
         ],
         [
-            "TRASSANDER S.A.",
-            1
-        ],
-        [
-            "INDUSTRIAS CHICCO LTDA",
-            1
-        ],
-        [
-            "VERAMON SAS",
-            1
-        ],
-        [
-            "FUNDACION SALUD MIA EPS",
-            1
-        ],
-        [
-            "ALMACANELA SAS",
-            1
-        ],
-        [
-            "CAMILO BERMUDEZ PITTA- COMERCIALIZADORA FELPITAS",
-            1
-        ],
-        [
-            "COOPERATIVA DE TRANSPORTADORES DEL MEDIO MAGDALENA LTDA.-COOTRANSMAGDALENA-",
-            1
-        ],
-        [
-            "INVERSIONES ALROCK SAS",
-            1
-        ],
-        [
-            "ci tierra de negocios",
-            1
-        ],
-        [
-            "CIUDAD BRILLANTE S.A.S.",
-            1
-        ],
-        [
-            "IVONNE RUEDA CRISTANCHO",
-            1
-        ],
-        [
-            "EQUIM EQUIPOS Y MONTAJES S.A.S.",
-            1
-        ],
-        [
-            "MARTHA LUCIA COBOS PARRA- DROGUERIA MX ALKOSTO",
-            1
-        ],
-        [
-            "GLORIA AMPARO PITTA MENESES",
-            1
-        ],
-        [
-            "GRUPO COMERCIAL SNACKS SAS",
-            1
-        ],
-        [
-            "INVERSIONES COMPAS SAS.",
-            1
-        ],
-        [
-            "MEDICID SAS",
-            1
-        ],
-        [
-            "DIAGNOSTIMEDICOS Y DROGAS LTDA",
-            1
-        ],
-        [
-            "FC ALLIANCE LTDA",
-            1
-        ],
-        [
-            "NACIONAL DE SERVICIOS SM SAS",
-            1
-        ],
-        [
-            "DIOSELINA MADRID ORTIZ- MADRID",
-            1
+            "ENTERALTIVA GROUP S.A.S",
+            1,
+            2,
+            3
         ],
         [
             "SALSAMENTARIA SANTANDER",
+            1,
+            0,
             1
         ],
         [
-            "INDUMETALICAS ANRAGA SAS",
+            "PHD SERVICIOS SAS",
+            8,
+            0,
+            8
+        ],
+        [
+            "COMPA√ë√çA DE SERVICIOS TECNICOS INTEGRALES SAS",
+            6,
+            0,
+            6
+        ],
+        [
+            "IMEBU - INSTITUTO MUNICIPAL DE EMPLEO Y FOMENTO EMPRESARIAL DE BUCARAMANGA",
+            6,
+            0,
+            6
+        ],
+        [
+            "LUISA INES SERRANO OTERO",
+            2,
+            0,
+            2
+        ],
+        [
+            "SEGURIDAD GUANENTA LTDA",
+            1,
+            1,
+            2
+        ],
+        [
+            "FUNDACI√ìN OFTALMOL√ìGICA DE SANTANDER -FOSCAL.",
+            2,
+            4,
+            6
+        ],
+        [
+            "TEAM WORKING SAS",
+            3,
+            3,
+            6
+        ],
+        [
+            "SUSESO SAS",
+            3,
+            0,
+            3
+        ],
+        [
+            "PRODUCTOS VICKY SAS",
+            7,
+            0,
+            7
+        ],
+        [
+            "DISTRIBUIDORA AVICOLA S.A.S.",
+            2,
+            0,
+            2
+        ],
+        [
+            "EDGAR FORERO RODRIGUEZ",
+            1,
+            0,
+            1
+        ],
+        [
+            "INCUBADORA SANTANDER S.A. ALAT S.A.",
+            2,
+            0,
+            2
+        ],
+        [
+            "ORGANIZACION SERVICIOS Y ASESORIAS",
+            1,
+            2,
+            3
+        ],
+        [
+            "DEPORTIVOS MOTAS SPORT SAS",
+            3,
+            5,
+            8
+        ],
+        [
+            "RHANDOM S.A.S.",
+            1,
+            0,
+            1
+        ],
+        [
+            "SUESCUN COMPANY SAS",
+            1,
+            3,
+            4
+        ],
+        [
+            "QS1 SAS",
+            1,
+            1,
+            2
+        ],
+        [
+            "SUMMAR PROCESOS SAS",
+            1,
+            3,
+            4
+        ],
+        [
+            "PRODUCTOS OFACOL SAS",
+            2,
+            1,
+            3
+        ],
+        [
+            "Avidesa Mac Pollo",
+            5,
+            0,
+            5
+        ],
+        [
+            "JYM SOLUCIONES SEGURAS S.A.S",
+            1,
+            3,
+            4
+        ],
+        [
+            "FC ALLIANCE LTDA",
+            1,
+            0,
+            1
+        ],
+        [
+            "AVICOLA SINAIN SAS",
+            1,
+            1,
+            2
+        ],
+        [
+            "CONEXUSIT SAS",
+            1,
+            0,
             1
         ],
         [
             "CB&GH INVERSIONES SAS",
+            1,
+            0,
             1
         ],
         [
-            "REFRESCOS SANTANDER SAS",
+            "FEXVAD S.A.S.",
+            6,
+            11,
+            17
+        ],
+        [
+            "SR. RANA SHOES S.A.S.",
+            2,
+            0,
+            2
+        ],
+        [
+            "SEGURIDAD ACROPOLIS LTDA .",
+            4,
+            1,
+            5
+        ],
+        [
+            "DIAGNOSTIMEDICOS Y DROGAS LTDA",
+            1,
+            0,
             1
+        ],
+        [
+            "INDUSTRIAS CHICCO LTDA",
+            1,
+            0,
+            1
+        ],
+        [
+            "TEMPORAL ACTIVA S.A.S.",
+            1,
+            3,
+            4
+        ],
+        [
+            "YAMAHA MOTOS",
+            5,
+            0,
+            5
+        ],
+        [
+            "BAGUER S.A.S. - CAFAM",
+            2,
+            1,
+            3
+        ],
+        [
+            "CONSTRUCTORA VSMJ SAS",
+            1,
+            1,
+            2
+        ],
+        [
+            "SUMMAR TEMPORALES SAS",
+            1,
+            4,
+            5
         ],
         [
             "UNIDROGAS S.A",
+            1,
+            0,
             1
+        ],
+        [
+            "MULTILABOR SERVICIOS E INSUMOS LTDA",
+            1,
+            5,
+            6
+        ],
+        [
+            "SERVICOOPRESER",
+            2,
+            0,
+            2
+        ],
+        [
+            "VERAMON SAS",
+            1,
+            0,
+            1
+        ],
+        [
+            "SERVICLINICOS DROMEDICA S. A.",
+            2,
+            1,
+            3
+        ],
+        [
+            "INDUSTRIAS ALIMENTICIAS BAES S.A.S",
+            2,
+            4,
+            6
+        ],
+        [
+            "APUNTO SAS",
+            1,
+            2,
+            3
+        ],
+        [
+            "GRUPO EXITO S.A",
+            4,
+            0,
+            4
+        ],
+        [
+            "GENTE UTIL S.A",
+            1,
+            1,
+            2
+        ],
+        [
+            "DISLENS SAS",
+            1,
+            3,
+            4
         ],
         [
             "JAYMAR SAS",
+            0,
+            1,
             1
         ],
         [
-            "MARITZA GARCÕA GARCÕA",
-            1
+            "ANA MARIA BUENO GARCIA",
+            0,
+            2,
+            2
         ],
         [
-            "ARENAS SERRANO SAS",
-            1
+            "PLATA ARGUELLO Y COMPA√ëIA",
+            0,
+            6,
+            6
         ],
         [
-            "LAURA YULIETH MONSALVE",
-            1
-        ],
-        [
-            "EDGAR FORERO RODRIGUEZ",
-            1
-        ],
-        [
-            "MADARCO SAS",
-            1
+            "DOTAHERLOGO SA",
+            0,
+            2,
+            2
         ],
         [
             "INVERSIONES FARMACOSTO S.A.S",
+            0,
+            1,
             1
         ],
         [
-            "RHANDOM S.A.S.",
+            "CALT SEGURIDAD LTDA",
+            0,
+            3,
+            3
+        ],
+        [
+            "PETROCASINOS S.A",
+            0,
+            3,
+            3
+        ],
+        [
+            "MAXIVENTAS DISTRIBUCIONES BGA SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "INDUMETALICAS ANRAGA SAS",
+            0,
+            1,
             1
         ],
         [
-            "COMTIGO SAS",
+            "CREZCAMOS SA COMPA√ë√çA DE FINANCIAMIENTO",
+            0,
+            1,
             1
         ],
         [
-            "CREZCAMOS SA COMPA—ÕA DE FINANCIAMIENTO",
+            "ARINTIA GROUP SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "LUIS EDUARDO CHINCHILLA  CASALINS",
+            0,
+            4,
+            4
+        ],
+        [
+            "AGMEN GESTI√ìN LOG√çSTICA INTEGRAL SAS-CAJASAN",
+            0,
+            2,
+            2
+        ],
+        [
+            "GREEN AND WHITE SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "ALMACANELA SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "STF GROUP SA",
+            0,
+            5,
+            5
+        ],
+        [
+            "CAMILO BERMUDEZ PITTA- COMERCIALIZADORA FELPITAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "SERVICIOS DE ALIMENTACION LA VIANDA S.A.",
+            0,
+            2,
+            2
+        ],
+        [
+            "PROJECTION LIFE",
+            0,
+            8,
+            8
+        ],
+        [
+            "INVERSIONES ALROCK SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "LOGISTICA INTEGRAL SINERGIA SAS",
+            0,
+            5,
+            5
+        ],
+        [
+            "SALUD HOGAR DEL ORIENTE SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "CELESTIAL FLORAL CAF√â SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "ci tierra de negocios",
+            0,
+            1,
+            1
+        ],
+        [
+            "AG2 COMUNICACIONES SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "GLORIA AMPARO PITTA MENESES",
+            0,
+            1,
+            1
+        ],
+        [
+            "IVONNE RUEDA CRISTANCHO",
+            0,
+            1,
+            1
+        ],
+        [
+            "COOPERATIVA SANTANDEREANA DE TRANSPORTES",
+            0,
+            5,
+            5
+        ],
+        [
+            "LISTOS PARA SERVIR SAS",
+            0,
+            3,
+            3
+        ],
+        [
+            "TRANSPORTES LIQUIDOS DE COLOMBIA S.A",
+            0,
+            1,
+            1
+        ],
+        [
+            "MARTHA LUCIA COBOS PARRA- DROGUERIA MX ALKOSTO",
+            0,
+            1,
+            1
+        ],
+        [
+            "MEDICID SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "SEI SERVICIOS ESPECIALIZADOS INFORMATICOS",
+            0,
+            2,
+            2
+        ],
+        [
+            "BANCO MUNDO MUJER",
+            0,
+            2,
+            2
+        ],
+        [
+            "GRUPO COMERCIAL SNACKS SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "CONSORCIO ESPACIO P√öBLICO 2021",
+            0,
+            2,
+            2
+        ],
+        [
+            "INVERSIONES COMPAS SAS.",
+            0,
+            1,
+            1
+        ],
+        [
+            "EQUIM EQUIPOS Y MONTAJES S.A.S.",
+            0,
+            1,
+            1
+        ],
+        [
+            "MERKAHORRO",
+            0,
+            11,
+            11
+        ],
+        [
+            "CALZADO XTREMO SAS",
+            0,
+            5,
+            5
+        ],
+        [
+            "DELTHAC1 SEGURIDAD",
+            0,
+            3,
+            3
+        ],
+        [
+            "TRASSANDER S.A.",
+            0,
+            1,
+            1
+        ],
+        [
+            "COOPERATIVA DE TRANSPORTADORES DEL MEDIO MAGDALENA LTDA.-COOTRANSMAGDALENA-",
+            0,
+            1,
+            1
+        ],
+        [
+            "TEXTAMPA SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "FASHION BRANDS GROUP SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "ENLACE EMPRESARIAL DE SERVICIOS SA",
+            0,
+            3,
+            3
+        ],
+        [
+            "CASA DE MODAS SAMA S.A.S",
+            0,
+            2,
+            2
+        ],
+        [
+            "TECNICAL SECURITY SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "FORTOX S.A",
+            0,
+            5,
+            5
+        ],
+        [
+            "FUNDACION SALUD MIA EPS",
+            0,
+            1,
+            1
+        ],
+        [
+            "GLORIA ESPERANZA ROJAS - INGENIER√çA Y SEGURIDAD INDUSTRIAL DE COLOMBIA",
+            0,
+            2,
+            2
+        ],
+        [
+            "DANIEL PALACIO -TECNIRACER BGA",
+            0,
+            3,
+            3
+        ],
+        [
+            "CIUDAD BRILLANTE S.A.S.",
+            0,
+            1,
+            1
+        ],
+        [
+            "LLANTAS BULLDOG S.A.S",
+            0,
+            2,
+            2
+        ],
+        [
+            "OPTECOM S.A.S",
+            0,
+            6,
+            6
+        ],
+        [
+            "LAURA YULIETH MONSALVE",
+            0,
+            1,
             1
         ],
         [
             "CORROSION PIPELINE SERVICES",
+            0,
+            1,
             1
         ],
         [
-            "FRANDI DARIANA VILLAR VILLAMIZAR - INK GENIO",
+            "COLORWORKING SAS",
+            0,
+            4,
+            4
+        ],
+        [
+            "EURONEL S.A.S.",
+            0,
+            2,
+            2
+        ],
+        [
+            "COMTIGO SAS",
+            0,
+            1,
             1
+        ],
+        [
+            "MI CARGA TRANSPORTES SAS",
+            0,
+            3,
+            3
+        ],
+        [
+            "FRANDI DARIANA VILLAR VILLAMIZAR - INK GENIO",
+            0,
+            1,
+            1
+        ],
+        [
+            "MARITZA GARC√çA GARC√çA",
+            0,
+            1,
+            1
+        ],
+        [
+            "DIOSELINA MADRID ORTIZ- MADRID",
+            0,
+            1,
+            1
+        ],
+        [
+            "ARENAS SERRANO SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "MADARCO SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "NACIONAL DE SERVICIOS SM SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "REFRESCOS SANTANDER SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "BRILLADORA EL DIAMANTE S.A.S.",
+            0,
+            1,
+            1
+        ],
+        [
+            "COMPA√ë√çA PESQUERA DEL MAR S.A.S.",
+            0,
+            3,
+            3
+        ],
+        [
+            "INVERSIONES ZULUAGA RUEDA SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "JUAN SEBASTIAN SARMIENTO",
+            0,
+            2,
+            2
+        ],
+        [
+            "MIS BORDADOS LTDA",
+            0,
+            2,
+            2
+        ],
+        [
+            "MARVAL S.A.",
+            0,
+            1,
+            1
+        ],
+        [
+            "HARINAGRO S.A",
+            0,
+            1,
+            1
+        ],
+        [
+            "FIVE HOLDING SAS",
+            0,
+            1,
+            1
+        ],
+        [
+            "BUENAVISTA EXPRESS SAS",
+            0,
+            2,
+            2
+        ],
+        [
+            "ARDISA SA",
+            0,
+            2,
+            2
         ]
     ]
 ]

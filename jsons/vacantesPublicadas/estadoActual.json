@@ -2,14 +2,20 @@
     [
         [
             "",
-            "Estado Actual"
+            "2023",
+            "2022",
+            "Total"
         ],
         [
             "Publicada",
+            308,
+            330,
             638
         ],
         [
-            "Sin gestión del prestador",
+            "Sin gestiÃ³n del prestador",
+            13,
+            2,
             15
         ]
     ]
